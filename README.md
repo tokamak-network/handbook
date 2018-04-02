@@ -8,7 +8,7 @@
   * [커뮤니케이션](./general/GENERAL.md#커뮤니케이션)
   * [보안](./general/GENERAL.md#보안)
   * [도구](./general/GENERAL.md#도구)
-  * [깃을 이용해 문서를 업데이트하는법](./general/GENERAL.md#깃을 이용해 분서를 업데이트하는법)
+  * [깃을 이용해 문서를 업데이트하는법](./general/GENERAL.md#깃을-이용해-문서를-업데이트하는법)
 
 * [인사]()
   * [채용]()
