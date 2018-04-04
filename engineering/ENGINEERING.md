@@ -103,19 +103,22 @@
     3. [비트코인 백서](https://bitcoin.org/bitcoin.pdf) : 정리 및 발표(1시간)
     4. [이더리움 백서](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper) : 읽고 정리 및 발표(1시간)
     5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
+       * [RLP씹어먹기](https://docs.google.com/presentation/d/1nSoRv4hCmona_N1VENZdZ_POVV-LZpxOSNBntareZuA/edit?usp=sharing)
+       * [머클과 머클 패트리샤 트리](https://docs.google.com/presentation/d/1J8vbpvo7E8B0-h9uHsm7Sp94g3CA2VjjvTIqVNucwyg/edit?usp=sharing)
 
 
 ### 스마트 컨트렉트 테크트리
   1. Udemy 강의 : [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) 완강, 24시간 소요
-  2. [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity) 공부 및 정리
-  3. [Minime Token](https://github.com/Giveth/minime) 공부 및 정리
+  2. [트러플 쓰기](https://docs.google.com/presentation/d/1ONHk1ZwNXPe9650Nivv9xaNdN9ec45X22D136RyLAME/edit?usp=sharing)
+  3. [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity) 공부 및 정리
+  4. [Minime Token](https://github.com/Giveth/minime) 공부 및 정리
      [Minime Token by Thoms.s](https://docs.google.com/presentation/d/1BFGDuX1nM_H8u-v6INLmEWFa5wmRpXx5prYqvl4R1_E/edit?usp=sharing)
-  4. 오디팅(auditing)
+  5. 오디팅(auditing)
      * [제플린의 오딧 블로그](https://blog.zeppelin.solutions/tagged/security) 내용 정리
      * [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-     * [Auditing Smart Contract by 4000D](Auditing Smart Contract by 4000D)
+     * [Auditing Smart Contract by 4000D](https://docs.google.com/presentation/d/1I5JjEVCFsD6UbKOLERQ8pOTsF2fEsnj5RBcDKU_aozc/edit?usp=sharing)
      * [실제 오딧 보고서(onther.io계정 필요)](https://docs.google.com/document/d/1aCZ2MowRnpd_GZ-pH0jIS7IQ5ZJXiGKgYxReCDtk1Fc/edit?usp=sharing) 분석
-  5. 탈중앙화된 스마트 컨트렉트 설계(개발 윤리)
+  6. 탈중앙화된 스마트 컨트렉트 설계(개발 윤리)
      * [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)
      * [DAICO](https://docs.google.com/presentation/d/1vcFjuHobwt2Q7A_wQOTUakkujWqh-8lGGsFBoARCusk/edit?usp=sharing)
 
@@ -147,6 +150,8 @@
 
 ### 리서쳐 테크트리
   * [ERC20 시총 상위 100개 코인](https://etherscan.io/tokens)의 ICO모델, 비즈니스모델, 컨트렉트 코드 및 라이브러리를 순서대로 정리
+  * [Ethereum Casper의 이해](https://docs.google.com/presentation/d/1Kidwr3VsP8C1wA2a8Pzxtuess-lnLSNx5CMqN1sE3SU/edit?usp=sharing)
+  * [Whisper 프로토콜](https://docs.google.com/presentation/d/1zA9_66ywegS3Jl_brus9sfjcElqVzQT1qvYPhyJKsJY/edit?usp=sharing)
 
 ## 스마트 컨트렉트 개발팀
 
