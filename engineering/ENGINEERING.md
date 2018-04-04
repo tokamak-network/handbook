@@ -97,21 +97,50 @@
     3. [비트코인 백서](https://bitcoin.org/bitcoin.pdf) : 정리 및 발표(1시간)
     4. [이더리움 백서](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper) : 읽고 정리 및 발표(1시간)
     5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
-    6. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
-       * [키와 어카운트 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/tools/keys.py)
-       * [EVM 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py)
-       * [블록 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/block.py)
-       * [메세지와 reciept](https://github.com/ethereum/pyethereum/blob/develop/ethereum/messages.py)
-       * [state 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/state.py)
-       * [Transaction 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/transactions.py)
-       * [옵코드의 종류와 가스테이블](https://github.com/ethereum/pyethereum/blob/develop/ethereum/opcodes.py)
-       * [머클 패트리샤 트리](https://github.com/ethereum/pyethereum/blob/develop/ethereum/trie.py)
-       * [PoW와 체인](https://github.com/ethereum/pyethereum/tree/develop/ethereum/pow)
-       * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
 
-* 스마트 컨트렉트 테크트리
-* 코어 테크트리
+
+* 스마트 컨트렉트 분야
+  1. Udemy 강의 : [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) 완강, 24시간 소요
+  2. [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity) 공부 및 정리
+  3. [Minime Token](https://github.com/Giveth/minime) 공부 및 정리
+     [Minime Token by Thoms.s](https://docs.google.com/presentation/d/1BFGDuX1nM_H8u-v6INLmEWFa5wmRpXx5prYqvl4R1_E/edit?usp=sharing)
+  4. 오디팅(auditing)
+     * [제플린의 오딧 블로그](https://blog.zeppelin.solutions/tagged/security) 내용 정리
+     * [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+     * [Auditing Smart Contract by 4000D](Auditing Smart Contract by 4000D)
+     * [실제 오딧 보고서(onther.io계정 필요)](https://docs.google.com/document/d/1aCZ2MowRnpd_GZ-pH0jIS7IQ5ZJXiGKgYxReCDtk1Fc/edit?usp=sharing) 분석
+  5. 탈중앙화된 스마트 컨트렉트 설계(개발 윤리)
+     * [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)
+     * [DAICO](https://docs.google.com/presentation/d/1vcFjuHobwt2Q7A_wQOTUakkujWqh-8lGGsFBoARCusk/edit?usp=sharing)
+
+* 코어 테크트리 분야
+
+  1. 비트코인 코어
+     * [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)
+     * [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)
+     * [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)
+
+  1. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
+     * [키와 어카운트 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/tools/keys.py)
+     * [EVM 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py)
+     * [블록 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/block.py)
+     * [메세지와 reciept](https://github.com/ethereum/pyethereum/blob/develop/ethereum/messages.py)
+     * [state 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/state.py)
+     * [Transaction 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/transactions.py)
+     * [옵코드의 종류와 가스테이블](https://github.com/ethereum/pyethereum/blob/develop/ethereum/opcodes.py)
+     * [머클 패트리샤 트리](https://github.com/ethereum/pyethereum/blob/develop/ethereum/trie.py)
+     * [PoW와 체인](https://github.com/ethereum/pyethereum/tree/develop/ethereum/pow)
+     * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
+
+   2. 고-이더리움([go-ethereum](https://github.com/ethereum/go-ethereum)) 코어 까보기
+      * [4000d의 go-ethereum 코어 분석자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE/edit?usp=sharing)
+      * 주요 로직과 라이브러리를 분석/분해하고 필요한 기능을 하나씩 넣어봄 ex) gas fee를 수정해본다던지
+
+   3. [플라즈마 MVP 분석](https://github.com/omisego/plasma-mvp)
+      * [Deep Dive Into Plasm MVP by Kevin](https://docs.google.com/presentation/d/1gLgeA6_o1WTz7PtSrzclmx8moZ9oAxTG5ZJl8U1tgqg/edit?usp=sharing)
+
 * 리서쳐 테크트리
+  * [ERC20 시총 상위 100개 코인](https://etherscan.io/tokens)의 ICO모델, 비즈니스모델, 컨트렉트 코드 및 라이브러리를 순서대로 정리
 
 ## 스마트 컨트렉트
 
