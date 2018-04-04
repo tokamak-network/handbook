@@ -26,7 +26,7 @@
 1. [슬렉 채널](https://onther.slack.com/messages/G9Y5915B7/) : 깃헙에 issue로 낼 만한 것이 아니면, #dev 채널을 주요한 커뮤니케이션 수단으로 사용한다.
 2. [온더 깃헙](https://github.com/Onther-Tech) : 온더의 모든 프로젝트는 클라이언트의 특별한 요구가 없는 한 public으로 작업한다.
 
-###온더 레포지토리
+### 온더 레포지토리
 
 온더는 수 많은 프로젝트들로 이루어져 있다. 각각의 프로젝트는 (일반적으로)깃헙 레포지토리를 생성하며, 이 목록은 [온더 깃헙](https://github.com/onther-tech)에서 확인할 수 있다.
 
@@ -79,6 +79,14 @@
 온더의 모든 개발자는 맡은 업무와 상관없이 (이더리움)블록체인에 대한 기초적인 원리와 개념을 이해하고 있어야 한다. 이를 위해 우리는 신입 개발자를 위한 적응 프로그램을 가지고 있으며, 이에 대한 자세한 내용은 아래에 적혀져 있다. 다만 본인의 경력(혹은 포트폴리오)을 증명했다면, 아래의 과정은 일부가 건너 뛰어지거나 생략될 수 있다.
 
 * 공통과정
+  * 듣는것
+    1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing)
+    2. [사업방향에 관하여(onther.io계정필요)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit?usp=sharing)
+    3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing)
+    4. [마이너의 이해(onther.io계정필요)](https://docs.google.com/presentation/d/1d8X4KVdYe8JnSHDYajaWCkzBiGaOKgtdbOaKjUoCdpo/edit?usp=sharing)
+    5. [ICO Contract Development Process(onther.io계정필요)](https://docs.google.com/presentation/d/1l_QZyU9dVQb4ejYKAbtEb1ibsUrjV12dxNmbrn0GlNw/edit?usp=sharing)
+    6. [2018 dappchain(onther.io계정필요)](https://docs.google.com/presentation/d/1v_JqyGL9DNrnU9p8kjOZbb6_rfsnyQ-NkQiblYJ8KNo/edit?usp=sharing)
+  * 직접 하는것
 * 스마트 컨트렉트 테크트리
 * 코어 테크트리
 * 리서쳐 테크트리
