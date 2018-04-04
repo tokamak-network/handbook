@@ -80,13 +80,35 @@
 
 * 공통과정
   * 듣는것
-    1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing)
-    2. [사업방향에 관하여(onther.io계정필요)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit?usp=sharing)
-    3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing)
-    4. [마이너의 이해(onther.io계정필요)](https://docs.google.com/presentation/d/1d8X4KVdYe8JnSHDYajaWCkzBiGaOKgtdbOaKjUoCdpo/edit?usp=sharing)
-    5. [ICO Contract Development Process(onther.io계정필요)](https://docs.google.com/presentation/d/1l_QZyU9dVQb4ejYKAbtEb1ibsUrjV12dxNmbrn0GlNw/edit?usp=sharing)
-    6. [2018 dappchain(onther.io계정필요)](https://docs.google.com/presentation/d/1v_JqyGL9DNrnU9p8kjOZbb6_rfsnyQ-NkQiblYJ8KNo/edit?usp=sharing)
-  * 직접 하는것
+    1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
+    2. [사업방향에 관하여(onther.io계정필요)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit?usp=sharing) : 온더가 하고자 하는 비즈니스와 해당 업의 본질
+    3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing) : 스마트 컨트렉트란 무엇이며 어떻게 세상을 바꿀 것인가?
+    4. [마이너의 이해(onther.io계정필요)](https://docs.google.com/presentation/d/1d8X4KVdYe8JnSHDYajaWCkzBiGaOKgtdbOaKjUoCdpo/edit?usp=sharing) : 마이너에 관한 일반사항, 노드에 대한 이해
+    5. [ICO Contract Development Process(onther.io계정필요)](https://docs.google.com/presentation/d/1l_QZyU9dVQb4ejYKAbtEb1ibsUrjV12dxNmbrn0GlNw/edit?usp=sharing) : ICO와 토큰 개발 과정에 대한 이해
+    6. [2018 dappchain(onther.io계정필요)](https://docs.google.com/presentation/d/1v_JqyGL9DNrnU9p8kjOZbb6_rfsnyQ-NkQiblYJ8KNo/edit?usp=sharing) : 2018년 온더의 주요 목표 및 프로젝트
+  * 직접 하는것 : 비트코인 이해 --> 이더리움 이해 순으로 진행, 혼자 공부하고 [발표자료]() 형식으로 만들어 온라인(오프라인) 세미나를 진행, 세미나 시간은 본인이 정해 구글 캘린더에 공유한 후 슬렉 #notice 채널에 공지, 해당 시간에 누구든지 와서 듣고 묻고 답할 수 있음.
+    1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) 정리 및 분석
+       * 2,4장 정리 후 세미나(1시간)
+       * 5,6장 정리 후 세미나(1시간)
+       * 7,8장 정리 후 세미나(1시간)
+    2. Bitcoin Hardway 블로그 정리
+       * [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html) : 읽고 이해하고 발표(1시간)
+       * [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html) : 읽고 이해하고 발표(1시간)
+    3. [비트코인 백서](https://bitcoin.org/bitcoin.pdf) : 정리 및 발표(1시간)
+    4. [이더리움 백서](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper) : 읽고 정리 및 발표(1시간)
+    5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
+    6. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
+       * [키와 어카운트 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/tools/keys.py)
+       * [EVM 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py)
+       * [블록 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/block.py)
+       * [메세지와 reciept](https://github.com/ethereum/pyethereum/blob/develop/ethereum/messages.py)
+       * [state 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/state.py)
+       * [Transaction 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/transactions.py)
+       * [옵코드의 종류와 가스테이블](https://github.com/ethereum/pyethereum/blob/develop/ethereum/opcodes.py)
+       * [머클 패트리샤 트리](https://github.com/ethereum/pyethereum/blob/develop/ethereum/trie.py)
+       * [PoW와 체인](https://github.com/ethereum/pyethereum/tree/develop/ethereum/pow)
+       * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
+
 * 스마트 컨트렉트 테크트리
 * 코어 테크트리
 * 리서쳐 테크트리
