@@ -76,9 +76,14 @@
 
 ## 개발자 OJT 프로그램
 
-온더의 모든 개발자는 맡은 업무와 상관없이 (이더리움)블록체인에 대한 기초적인 원리와 개념을 이해하고 있어야 한다. 이를 위해 우리는 신입 개발자를 위한 적응 프로그램을 가지고 있으며, 이에 대한 자세한 내용은 아래에 적혀져 있다. 다만 본인의 경력(혹은 포트폴리오)을 증명했다면, 아래의 과정은 일부가 건너 뛰어지거나 생략될 수 있다.
+온더의 모든 개발자는 맡은 업무와 상관없이 (이더리움)블록체인에 대한 기초적인 원리와 개념을 이해하고 있어야 한다. 이를 위해 우리는 신입 개발자를 위한 최고의 OJT 프로그램을 가지고 있으며, 이에 대한 자세한 내용은 아래에 적혀져 있다. 다만 본인의 경력(혹은 포트폴리오)을 증명했다면, 아래의 과정은 일부가 건너 뛰어지거나 생략될 수 있다.
 
-* 공통과정
+* [공통과정](#공통과정)
+* [스마트 컨트렉트 테크트리](#스마트-컨트렉트-테크트리)
+* [코어 테크트리](#코어-테크트리)
+* [리서쳐 테크트리](#리서쳐-테크트리)
+
+### 공통과정
   * 듣는것
     1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
     2. [사업방향에 관하여(onther.io계정필요)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit?usp=sharing) : 온더가 하고자 하는 비즈니스와 해당 업의 본질
@@ -99,7 +104,7 @@
     5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
 
 
-* 스마트 컨트렉트 분야
+### 스마트 컨트렉트 테크트리
   1. Udemy 강의 : [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) 완강, 24시간 소요
   2. [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity) 공부 및 정리
   3. [Minime Token](https://github.com/Giveth/minime) 공부 및 정리
@@ -113,14 +118,14 @@
      * [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)
      * [DAICO](https://docs.google.com/presentation/d/1vcFjuHobwt2Q7A_wQOTUakkujWqh-8lGGsFBoARCusk/edit?usp=sharing)
 
-* 코어 테크트리 분야
+### 코어 테크트리
 
   1. 비트코인 코어
      * [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)
      * [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)
      * [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)
 
-  1. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
+  2. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
      * [키와 어카운트 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/tools/keys.py)
      * [EVM 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py)
      * [블록 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/block.py)
@@ -132,17 +137,19 @@
      * [PoW와 체인](https://github.com/ethereum/pyethereum/tree/develop/ethereum/pow)
      * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
 
-   2. 고-이더리움([go-ethereum](https://github.com/ethereum/go-ethereum)) 코어 까보기
+   3. 고-이더리움([go-ethereum](https://github.com/ethereum/go-ethereum)) 코어 까보기
       * [4000d의 go-ethereum 코어 분석자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE/edit?usp=sharing)
       * 주요 로직과 라이브러리를 분석/분해하고 필요한 기능을 하나씩 넣어봄 ex) gas fee를 수정해본다던지
 
-   3. [플라즈마 MVP 분석](https://github.com/omisego/plasma-mvp)
+   4. [플라즈마 MVP 분석](https://github.com/omisego/plasma-mvp)
       * [Deep Dive Into Plasm MVP by Kevin](https://docs.google.com/presentation/d/1gLgeA6_o1WTz7PtSrzclmx8moZ9oAxTG5ZJl8U1tgqg/edit?usp=sharing)
 
-* 리서쳐 테크트리
+### 리서쳐 테크트리
   * [ERC20 시총 상위 100개 코인](https://etherscan.io/tokens)의 ICO모델, 비즈니스모델, 컨트렉트 코드 및 라이브러리를 순서대로 정리
 
-## 스마트 컨트렉트
+## 스마트 컨트렉트 개발팀
+
+### 스마트 컨트렉트 개발팀의 비전과 목표
 
 ### ICO와 토큰
 
