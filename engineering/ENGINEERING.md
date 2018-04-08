@@ -86,6 +86,7 @@
 
 * 리뷰어(reviewer) : 다수의 이슈와 리뷰가 동시다발적으로 이뤄질 때, 메인테이너를 보조하는 역할. 이슈 트레킹, pull request에 대한 의견을 내고 메인테이너를 계속 멘션하여 프로젝트 진행을 도움.
 
+
 ## 개발자 OJT 프로그램
 
 온더의 모든 개발자는 맡은 업무와 상관없이 (이더리움)블록체인에 대한 기초적인 원리와 개념을 이해하고 있어야 한다. 이를 위해 우리는 신입 개발자를 위한 최고의 OJT 프로그램을 가지고 있으며, 이에 대한 자세한 내용은 아래에 적혀져 있다. 다만 본인의 경력(혹은 포트폴리오)을 증명했다면, 아래의 과정은 일부가 건너 뛰어지거나 생략될 수 있다.
@@ -116,6 +117,12 @@
     5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
        * [RLP씹어먹기](https://docs.google.com/presentation/d/1nSoRv4hCmona_N1VENZdZ_POVV-LZpxOSNBntareZuA/edit?usp=sharing)
        * [머클과 머클 패트리샤 트리](https://docs.google.com/presentation/d/1J8vbpvo7E8B0-h9uHsm7Sp94g3CA2VjjvTIqVNucwyg/edit?usp=sharing)
+    6. [이더리움 황서](http://gavwood.com/paper.pdf) : 읽고 정리 및 발표(3시간)
+       * 황서를 봐야 하는 이유?
+       * mathematical notation : 노테이션을 알고 나면 추가적인 알고리즘 / 개념 이해는 더욱 빠르고 정확하게 가능
+       * [gitter](https://gitter.im/ethereum/yellowpaper)를 통한 질의응답 가능
+       * 빠른 업데이트 : zk-SNARK verification 이 비잔티움 포크 후 precompile contract으로 추가 될 예정
+       * public review
 
 
 ### 스마트 컨트렉트 테크트리
