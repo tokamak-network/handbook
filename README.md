@@ -5,9 +5,9 @@
 * [일반사항](./general/GENERAL.md#일반사항)
   * [목적](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%AA%A9%EC%A0%81)
   * [가치](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B0%80%EC%B9%98)
-  * [커뮤니케이션](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98)
-  * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%B3%B4%EC%95%88)
-  * [도구](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%8F%84%EA%B5%AC)
+  * [커뮤니케이션](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md)
+  * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md)
+  * [도구](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md)
   * [깃을 이용해 문서를 업데이트하는법](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B9%83%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
 
 * [인사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md)
