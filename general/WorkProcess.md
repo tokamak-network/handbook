@@ -204,7 +204,7 @@
       : 한주 간 이뤄졌던 일 중, 가장 후회스럽고 효율성이 떨어졌던 일에 대해서 적는다. 적고 나서 반성한다.
 ```
 4. 월간 계획을 바탕으로 주간 목표의 우선순위를 수정할 수 있다.
-   * 차주 [미팅, 세미나, 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80) 일정 : [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)과 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 위해 차주의 할 일과 연관되어 진행할 [데모](#데모)/[세미나](#세미나), 혹은 정해진 미팅을 적는다. 이후에 직접 [캘린더](#온더-캘린더)에 반영한다.
+   * 차주 [미팅, 세미나, 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80) 일정: [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)과 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 위해 차주의 할 일과 연관되어 진행할 [데모](#데모)/[세미나](#세미나), 혹은 정해진 미팅을 적는다. 이후에 직접 [캘린더](#온더-캘린더)에 반영한다.
 5. 질문메시지가 오면 질문에 대한 답을 한다.
     * [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)에게 메시지를 보낸다.
 6. 답을 한 메시지는 쓰레드 edit으로 수정가능하다.
@@ -219,8 +219,19 @@
     * 스케줄은 KST 17:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
 2. 필요 시 담당자는 회의실을 예약하고 [온더 캘린더](#온더-캘린더)에 반영한다.
 3. 오프라인으로 참여하지 못하는 경우 [화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)로 참여한다.
-4. 월간회의에 참여하기 전, [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다. [Monthly TeamCall(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.g4bfba756bf_0_153) 참조
+4. 월간회의에 참여하기 전, [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다.
+    * [Monthly TeamCall(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.g4bfba756bf_0_153) 참조
+    * [월간회고 작성법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1j60pZeh9drVpIKnY9RlMeNdQElTN_cwe)
+    * [월간회고 발표 예시 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1ASP7sHLvsjui7ob4aZEyI1-gy1yGizyy)
 5. 월간회의에서는 해당월의 어젠다와 차월의 어젠다에 대해 이야기한다. 그해 마지막 12월 월간회의에서는 연간회의를 겸한다.
+-------
+1. 지난달 할일
++ 프로젝트와 카드 위주
++ 개선점, 잘된점 (지난달 목표와 비교)
+2. 다음달 할일
++ 주차별
+3. 어려운점, 협업이 필요한 부분, 더블체크가 필요한 부분
+--------
 6. 지원팀은 재무보고를 한다. 온더의 내부사정을 모두 공유하고 투명하게 경영을 이끌어가기 위함이다.
     1. 해당월의 지출현황, 매출액현황, 향후 6개월~1년 재무현황에 대해 이야기 한다.
     2. 마지막 12월의 경우 연간 재무현황에 대해 이야기 한다.
@@ -325,7 +336,8 @@
 3. [내부 커뮤니케이션](#내부-커뮤니케이션), [채팅](#채팅)을 참조한다.
 4. 멘션: 온더 이더리움 연구소 그룹 멘션(@lab), 기획지원팀 멘션(@business)
 5. 봇: HappyOntherBot는 "온더"의 일일회의, 주간회의를 등을 주도하는 챗봇이다.
-
+    * [트렐로 & HappyOntherBot 사용법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1r6oIWKUN-vGdRqkxS-0X45Sl8570MqKO)
+    
 ### 줌(Zoom)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
 2. "온더"에서 진행하는 [화상회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)는 해당 내용을 숙지해야 한다.
@@ -342,7 +354,10 @@
 
 
 ### 트렐로(Trello)
-* [온더 칸반 템플릿과 사용 가이드(onther.io계정필요)](https://trello.com/b/FZSPKJkp/%EC%98%A8%EB%8D%94%EC%B9%B8%EB%B0%98-%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)와 [Work Process(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)를 함께 보면 도움이 된다.
+* "온더"의 트렐로 사용을 위해 해당 내용을 숙지해야 한다.
+    * [온더 칸반 템플릿과 사용 가이드(onther.io계정필요)](https://trello.com/b/FZSPKJkp/%EC%98%A8%EB%8D%94%EC%B9%B8%EB%B0%98-%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * [Work Process(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)
+    * [트렐로 & HappyOntherBot 사용법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1r6oIWKUN-vGdRqkxS-0X45Sl8570MqKO)
 * 칸반보드는 업무 특성에 따라서 다양한 방식이 도입될 수 있다. 주간팀콜을 통해서 유연하게 조정할 필요가 있다.
 * 각 보드의 규칙은 __자유롭다.__ 팀원들간 피드백을 통해 각자 스스로 만든다.
 
