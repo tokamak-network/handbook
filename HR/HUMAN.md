@@ -57,7 +57,8 @@
 8. 가장 바람직한 것은, [주간회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A3%BC%EA%B0%84%ED%9A%8C%EC%9D%98) 혹은 [일일회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9D%BC%EC%9D%BC%ED%9A%8C%EC%9D%98)의 어젠더를 이용해 본인의 휴가를 알리는 것이다.
 9. 예비군, 선거일 등도 동일하다.
     * 연가는 사라지지 않는다. 증명서를 사진찍어서 드라이브에 올린 후 캘린더 메모에 남긴다
-10. 일간/주간회의 불참할 경우, 일간/주간회의 [녹화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%85%B9%ED%99%94) 또는 회의채널을 직접 확인한다. 우리는 팀콜을 이용해 공지사항을 전달하거나, 프로세스를 수정할 때 사용하기 때문이다.
+10. 일간/주간/월간회의 불참할 경우, 일간/주간/월간회의 [녹화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%85%B9%ED%99%94) 또는 회의채널을 직접 확인한다.
+    * 우리는 팀콜을 이용해 공지사항을 전달하거나 프로세스를 수정할 때 사용하기 때문에, 확인하지 않는다면 복기 후 커뮤니케이션이 힘들 수 있다.
 
 ### 팀장의 역할(휴가와 휴식에 관한)
 팀장은 항상 팀원의 삶의 질에 관심을 가져야 하며, 적절하게 휴가가 이뤄지고 있는지 확인해야 할 의무가 있다. 원격근무가 이뤄지는 환경에서는 삶의 균형이 제대로 맞춰지는지 알아채기 어렵다. 만약 팀장의 입장에서 1:1대면 미팅을 통해 누군가 휴가가 필요한 것으로 판단되면, 잘 쉴 수 있도록 유도하라.
