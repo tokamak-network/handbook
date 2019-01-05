@@ -3,6 +3,7 @@
 
 ## [비즈니스](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md)
 * [온더가 하고있는 일](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#%EC%98%A8%EB%8D%94%EA%B0%80-%ED%95%98%EA%B3%A0%EC%9E%88%EB%8A%94-%EC%9D%BC)
+* [대표소개](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#%EB%8C%80%ED%91%9C%EC%86%8C%EA%B0%9C)
 
 ## [일반사항](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%9D%BC%EB%B0%98%EC%82%AC%ED%95%AD)
   * [일반사항](./general/GENERAL.md#일반사항)
