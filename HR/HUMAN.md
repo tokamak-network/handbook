@@ -76,7 +76,7 @@
 2. 연간계획 또는 연간 진행 프로젝트와 관련하여 이야기하는 것을 원칙으로 한다.
 3. 발표가 끝나면 모든 팀원은 발표 팀원에 대해 긍정적인 부분과 발전될 수 있는 부분을 얘기한다. 솔직하게 진심으로 이야기 한다.
 4. 팀원은 다른 팀원의 이야기에 귀 기울이고 본인의 성장을 위해 개선해야할 부분에 대해 생각하는 계기로 삼을 수 있도록 한다.
-
+    * [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM) 참조
 
 ### 정량평가
 1. 월간회고를 마치면 담당자는 정량평가 양식을 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) #notice 에 공지한다.
