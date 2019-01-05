@@ -1,7 +1,13 @@
 
 # 비즈니스
 
-## 온더가 하고 있는 일
+## 목차
+* [온더가 하고 있는 일](#온더가-하고-있는-일)
+* [PlasmaEVM 관련 페이퍼 및 영상 링크](#PlasmaEVM-관련-페이퍼-및-영상-링크)
+* [대표소개](#대표소개)
+* [회사소개](#회사소개)
+
+### 온더가 하고 있는 일
     온더는 사이드체인 연구/개발, 블록체인 기술 컨설팅, 스마트컨트랙트 설계 및 개발, 토큰 개발, 코드 감사(Audit),
     분산어플리케이션(Dapp) 서비스 기획 및 개발, 프라이빗 체인 구축/운영 등 이더리움 블록체인 프로젝트의 다양한 분야를 수행하였습니다.
 
@@ -24,7 +30,7 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
 
 + [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch](https://ethresear.ch/), 해외 개발자커뮤니티)   
 
-## 대표소개
+### 대표소개
 * [서울이더리움밋업](https://www.meetup.com/ko-KR/Seoul-Ethereum-Meetup/) 공동 조직자
 * “Plasma EVM” 공동 저자
   * [2018, Plasma EVM 2.0](https://hackmd.io/ciFhWJJrRbGFqA7Vc6tVJQ)
@@ -55,7 +61,7 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
   * 2018,  [[PlasmaEVM] 정순형 온더 대표 “이더리움 속도 개선… 블록체인 활성화 이끈다”](http://m.etoday.co.kr/view.php?idxno=1689793), 이투데이
 
 
-## 회사소개
+### 회사소개
   * [회사소개 자료(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U)
   * [EEA(Enterprise Ethereum Alliance)](https://entethalliance.org/members/) 회원
 
