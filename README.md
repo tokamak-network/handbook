@@ -34,13 +34,13 @@
   * [리서칭팀](https://github.com/Onther-Tech/handbook/blob/master/engineering/ENGINEERING.md#%EB%A6%AC%EC%84%9C%EC%B2%98)
   * 프론트엔드
 
-## [커뮤니케이션 채널]()
-  * 웹사이트
+## [커뮤니케이션 채널](https://github.com/Onther-Tech/handbook/blob/master/Communication%20Channel/CommunicationChannel.md#%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B1%84%EB%84%90)
+  <!-- * 웹사이트
   * 블로그
   * SNS 가이드라인
-  * 제품
+  * 제품 -->
 
-## [영업]()
+## [비즈니스](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md)
 
 ## [재무회계]()
 
