@@ -300,7 +300,7 @@
     3. 발표자료 공유 방식: 캘린더 메모에 세미나 발표 자료 URL을 반드시 적는다.
 3. 발표자료 작성: [4. 프레젠테이션 작성법](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98) 참조
     * 세미나 시작할때, 지난번 세미나 피드백, 이번 세미나 목적 밝히고 시작해야 한다.
-4. 세미나 호스트는 [녹화]()를 진행해야 한다.
+4. 세미나 호스트는 [녹화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%85%B9%ED%99%94)를 진행해야 한다.
 
 
 #### 세미나 참여 방법

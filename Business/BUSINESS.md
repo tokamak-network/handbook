@@ -8,8 +8,8 @@
 그간의 개발 경험과 노하우로 현재는 이더리움 사이드체인 __Plasma EVM__ 을 개발 중에 있습니다.
 
 __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
-    * 이더리움 메인체인의 Dapp들을 그대로 옮길 수 있고
-    * 기존에 형성된 개발자 커뮤니티를 그대로 포용할 수 있도록 설계되어, 스마트 컨트랙트를 Solidity로 구현 가능한 체인입니다.
+  * 이더리움 메인체인의 Dapp들을 그대로 옮길 수 있고
+  * 기존에 형성된 개발자 커뮤니티를 그대로 포용할 수 있도록 설계되어, 스마트 컨트랙트를 Solidity로 구현 가능한 체인입니다.
 
 ## PlasmaEVM 관련 페이퍼 및 영상 링크
 + [누구나 쉽게 이해하는 플라즈마 EVM](https://docs.google.com/presentation/d/10SzBYndUXm8OYWNI-n-USXLrJoe3g4eveF51tR-ptgU/edit#slide=id.p) (슬라이드, 국문)
