@@ -59,4 +59,4 @@ Plasma EVM은 이더리움과 동일한 스펙의 사이드체인으로
   * [회사소개 자료(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U)
   * [EEA(Enterprise Ethereum Alliance)](https://entethalliance.org/members/) 회원
 
-    궁금하신 사항은 info@onther.io로 문의해주세요 :)
+    * 궁금하신 사항은 info@onther.io로 문의해주세요 :)
