@@ -2,8 +2,9 @@
 이 핸드북은 회사가 어떻게 운영 되는지에 관한 핵심 저장소입니다. 이 내용은 누구든지 열람할 수 있으며, 이에 대한 개선안과 피드백은 어느 누구든지 주실 수 있습니다. 이에 대한 개선안이 있다면 언제든지 pull request를 해 주시기를 바라며, 궁금한 점이 있으면 언제든지 issue를 내 주시기 바랍니다.
 
 ## [비즈니스](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md)
+* [온더가 하고있는 일]
 
-## 일반사항
+## [일반사항](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%9D%BC%EB%B0%98%EC%82%AC%ED%95%AD)
   * [일반사항](./general/GENERAL.md#일반사항)
     * [목적](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%AA%A9%EC%A0%81)
     * [가치](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B0%80%EC%B9%98)
