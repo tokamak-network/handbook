@@ -25,4 +25,4 @@ Plasma EVM은 이더리움과 동일한 스펙의 사이드체인으로
 + [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch](https://ethresear.ch/), 해외 개발자커뮤니티)   
 
 ## [회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U)
-    * 궁금하신 사항은 info@onther.io로 문의해주세요 :)
+  * 궁금하신 사항은 info@onther.io로 문의해주세요 :)
