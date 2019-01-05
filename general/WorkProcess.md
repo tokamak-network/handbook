@@ -224,14 +224,14 @@
     * [월간회고 작성법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1j60pZeh9drVpIKnY9RlMeNdQElTN_cwe)
     * [월간회고 발표 예시 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1ASP7sHLvsjui7ob4aZEyI1-gy1yGizyy)
 5. 월간회의에서는 해당월의 어젠다와 차월의 어젠다에 대해 이야기한다. 그해 마지막 12월 월간회의에서는 연간회의를 겸한다.
--------
-1. 지난달 할일
-+ 프로젝트와 카드 위주
-+ 개선점, 잘된점 (지난달 목표와 비교)
-2. 다음달 할일
-+ 주차별
-3. 어려운점, 협업이 필요한 부분, 더블체크가 필요한 부분
---------
+```
+  1. 지난달 할일
+    + 프로젝트와 카드 위주
+    + 개선점, 잘된점 (지난달 목표와 비교)
+  2. 다음달 할일
+    + 주차별
+  3. 어려운점, 협업이 필요한 부분, 더블체크가 필요한 부분
+```  
 6. 지원팀은 재무보고를 한다. 온더의 내부사정을 모두 공유하고 투명하게 경영을 이끌어가기 위함이다.
     1. 해당월의 지출현황, 매출액현황, 향후 6개월~1년 재무현황에 대해 이야기 한다.
     2. 마지막 12월의 경우 연간 재무현황에 대해 이야기 한다.
@@ -337,7 +337,7 @@
 4. 멘션: 온더 이더리움 연구소 그룹 멘션(@lab), 기획지원팀 멘션(@business)
 5. 봇: HappyOntherBot는 "온더"의 일일회의, 주간회의를 등을 주도하는 챗봇이다.
     * [트렐로 & HappyOntherBot 사용법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1r6oIWKUN-vGdRqkxS-0X45Sl8570MqKO)
-    
+
 ### 줌(Zoom)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
 2. "온더"에서 진행하는 [화상회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)는 해당 내용을 숙지해야 한다.
@@ -371,7 +371,7 @@
 (준비중)
 
 ## 깃을 이용해 문서를 업데이트하는법
-[깃 사용법 by 생활코딩](https://opentutorials.org/course/2708/15242)
+* [깃 사용법 by 생활코딩](https://opentutorials.org/course/2708/15242)
 
 ## 사무실 이용 방법
 * [사무실 이용 안내(onther.io계정필요)](https://docs.google.com/presentation/d/1JYTy-qtxNsrY_MyF1oSRVHHK0jwLUOozE7xQhU4aGpY/edit#slide=id.p)
