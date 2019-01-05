@@ -1,4 +1,4 @@
-# [Work Process](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.g4bfba756bf_0_138)
+# [Work Process](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)
 
 ## 목차
 
@@ -311,6 +311,8 @@ SNS가이드라인 참조(준비중)
 
 
 ## 도구
+목적에 집중하되, 수단에 매몰되지 않도록 한다. 프로세스는 프로세스일 뿐, 목적은 결국 서로가 믿고 업무할 수 있는 효율적이고 투명하고 공개적인 의사소통을 할 수 있는 수단을 마련하는 것이다. 수단의 원칙으로는 하나의 도구로 여러가지의 일을 할 수 있다면 되도록 도구는 통합한다. 이와 관련된 아이디어가 필요한데, 누구나 의견을 제시할 수 있다.
+
 ### 슬랙(Slack)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
 2. 채널 #notice에서는 사적인 대화를 제한한다.
@@ -319,24 +321,29 @@ SNS가이드라인 참조(준비중)
 ### 줌(Zoom)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
 2. "온더"에서 진행하는 화상 회의는 해당 내용을 숙지해야 한다.
-  * [Zoom 사용법 문서](https://docs.google.com/presentation/d/18WbgVf5SNenByvPWZixcc5R2xA9WOKIkUx4S1jFLgVk/edit#slide=id.g4a4368afd7_0_0)
-  * [Zoom사용법 영상](https://drive.google.com/drive/folders/10mgxrv3wt-vHXwb6_7NqYGsotYXbmAyb)
+* [온더 Zoom 사용법 문서](https://docs.google.com/presentation/d/18WbgVf5SNenByvPWZixcc5R2xA9WOKIkUx4S1jFLgVk/edit#slide=id.g4a4368afd7_0_0)
+* [온더 Zoom 사용법 영상](https://drive.google.com/drive/folders/10mgxrv3wt-vHXwb6_7NqYGsotYXbmAyb)
 3. 처음 사용자는 세미나 시간 지연 및 녹화가 누락되지 않도록 녹화, 비디오 및 오디오 테스트를 사전에 완료해야 한다.
 4. 미팅 leave 이후, 컨버팅이 완전히 끝나지 않은 상태에서 PC를 끄면 안된다.
 5. 내부 회의(일간,주간,월간 회의 등)는 필수적으로 Cam On한다.
 6. 외부인 초대시, 비밀번호 없이 링크를 생성하고 해당 링크를 공유한다.
 
 ### 미디엄(Medium)
-* [Medium 활용법](https://docs.google.com/presentation/d/1MocTeewdMa6lImJ1DvlG7OwJ2xN198TwhJxI7pNdpY8/edit#slide=id.p)
 * 주의사항: 한번 퍼블리시된 미디엄글은 삭제를 금지한다.
+* [온더 Medium 활용법](https://docs.google.com/presentation/d/1MocTeewdMa6lImJ1DvlG7OwJ2xN198TwhJxI7pNdpY8/edit#slide=id.p)
+
 
 ### 트렐로(Trello)
-
+* [온더 칸반 템플릿과 사용 가이드](https://trello.com/b/FZSPKJkp/%EC%98%A8%EB%8D%94%EC%B9%B8%EB%B0%98-%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)와 [Work Process](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)를 함께 보면 도움이 된다.
+* 칸반보드는 업무 특성에 따라서 다양한 방식이 도입될 수 있다. 주간팀콜을 통해서 유연하게 조정할 필요가 있다.
+* 각 보드의 규칙은 __자유__ 롭다 = 팀원들간 피드백을 통해 각자 스스로 만든다.
 
 ### HacMD
-* 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다..
+* 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
+(준비중)
 
 ### Notion
+* 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 (준비중)
 
 ### YouTube
