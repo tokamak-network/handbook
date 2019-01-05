@@ -176,7 +176,7 @@ SNS가이드라인 참조(준비중)
 
 1. 주간회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 챗봇 HappyOntherBot봇이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
 2. 스케줄은 KST 16:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
-3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 미팅or세미나or데모에 대답한다. [세미나](#세미나) 참조
+3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 [미팅 or 세미나 or 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)에 대답한다. [세미나](#세미나) 참조
 ```
 1. 목표에 관한 질문입니다   
   1.1 이번달 월 중점 목표는 무엇인가요?
@@ -249,7 +249,7 @@ SNS가이드라인 참조(준비중)
 
 
 ### 팀원 연락망
-* [비상연락망](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)을 참조한다.
+  * [비상연락망](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)
 
 <!-- ### 업무 가능일(시간) -->
 
@@ -282,7 +282,7 @@ SNS가이드라인 참조(준비중)
        ex. 누구나 쉽게 이해하는 PlasmaEVM_kevin(zoe,carl)
     2. 링크생성 방식: 캘린더에서 [Zoom](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) Meeting 링크를 생성한다.
     3. 발표자료 공유 방식: 캘린더 메모에 세미나 발표 자료 URL을 반드시 적는다.
-3. 발표자료 작성 [4. 프레젠테이션 작성법]() 참조
+3. 발표자료 작성 [4. 프레젠테이션 작성법](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98) 참조
     * 세미나 시작할때, 지난번 세미나 피드백, 이번 세미나 목적 밝히고 시작해야 한다.
 4. 세미나 호스트는 [녹화]()를 진행해야 한다.
 
