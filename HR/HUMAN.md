@@ -12,20 +12,20 @@
 
 ## 채용
 "온더"는 상시채용을 진행 중이다. 궁금한 점은 언제든 info@onther.io로 문의하면 된다.
-1. 채용 공고는 [미디엄](https://medium.com/onther-tech/tagged/general), [블로그](http://blog.onther.io​ ​), [페이스북 페이지](https://www.facebook.com/OntherInc)에 공지된다.
-  * 상시채용은 공지된 날짜와 관계없이 수시모집하고 있다.
-  * 공채는 상반기, 하반기 매년 2회에 걸쳐 프로세스가 오픈된다.
+1. 채용 공고는 [미디엄](https://medium.com/onther-tech/tagged/general), [블로그](http://blog.onther.io​), [페이스북 페이지](https://www.facebook.com/OntherInc)에 공지된다.
+    * 상시채용은 공지된 날짜와 관계없이 수시모집하고 있다.
+    * 공채는 상반기, 하반기 매년 2회에 걸쳐 프로세스가 오픈된다.
 2. 서류평가를 진행한다.
 3. 인터뷰는 원격으로 2시간 정도 진행된다.
-  * 인터뷰는 지원자와 온더 팀원 양측이 서로를 평가하는 자리이다. 어느 한쪽이 일방적으로 질문하거나 무례한 태도는 삼가야 한다.
-  * 지원자도 어떤 질문이든 편하게 질문할 수 있다.
+    * 인터뷰는 지원자와 온더 팀원 양측이 서로를 평가하는 자리이다. 어느 한쪽이 일방적으로 질문하거나 무례한 태도는 삼가야 한다.
+    * 지원자도 어떤 질문이든 편하게 질문할 수 있다.
 4. 처우협의가 완료되면, 입사절차를 진행한다.
 
 
 ## 입퇴사
 1. [입사](https://docs.google.com/document/d/1rCd8W6qx1LWTceHkOLanNOdSFL0HSV7sB3yxb2nN-3A/edit)
 2. [퇴사](https://docs.google.com/document/d/1Fzwezwox4UqSdeJ3pDTtnVHSgWVuPCPTIPZV4e9lsE8/edit)
-  * 최소 30일전에는 운영담당자에게 미리 알린다.
+    * 최소 30일전에는 운영담당자에게 미리 알린다.
 
 
 ## 휴가와 쉬는것
@@ -40,6 +40,7 @@
    * 다만 휴가 기간 중에 진행중인 일을 꼭 누군가 책임질 수 있도록 해야 한다.
    * 1년 중 적어도 본인에게 주어진 휴가 중 80퍼센트 이상을 꼭 사용할 수 있도록 해야 하며, 그렇지 않다면 팀장은 무엇이 문제인지에 대해서 이야기를 나눠야 한다.
 2. 휴가동안 공동업무 및 담당 업무에 공백이 생지 않도록 대리자를 지정하거나 미리 조치한다.
+
     ex. 금요일 휴가라면 차주 세미나는 확정하고, 월간/주간회의는 미리 작성하거나 대신 작성해 줄 사람을 지정한다.
 3. 1개월 만근 시 1일 휴가가 생긴다(근로계약 형태와 상관 없다).
 4. 사용되지 않는 연차휴가는 1년간 행사하지 않으면 소멸된다.
@@ -48,7 +49,7 @@
 7. 휴가를 낼 때는 휴가 사항을 최대한 많은 사람에게 알리고([휴가 캘린더](https://calendar.google.com/calendar?cid=b250aGVyLmlvX2pydW0wbWUyc2kzODA0NmdkcG1kMGl2OHJvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)를 이용한다), 이를 통해 주변사람이 미리 본인의 일을 효율적으로 수행할 수 있도록 유도하며, 이를 통해 휴가중에 귀찮게 연락을 주고받을 일을 줄일 수 있다.
    * 휴가를 원하는 사람은 언제든 팀장에게 이야기한다. (슬랙 DM, 이메일 등)
    * 휴가를 미리 계획했다면 [온더 휴가 캘린더](https://calendar.google.com/calendar?cid=b250aGVyLmlvX2pydW0wbWUyc2kzODA0NmdkcG1kMGl2OHJvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)와 [휴가 관리 대장](https://docs.google.com/spreadsheets/d/1l05I8PdeW-8LmS-yWoCQg48vT78NEgBlfCTiEkMqx_Y/edit#gid=1684620092)에 기록한다.
-   * [슬렉]의 상태메시지를 수정한다. 수정할 때 예제의 양식을 꼭 지킨다 : YYYY-MM-DD ~ YYYY-MM-DD 휴가입니다.
+   * 슬랙의 상태메시지를 수정한다. 수정할 때 예제의 양식을 꼭 지킨다 : YYYY-MM-DD ~ YYYY-MM-DD 휴가입니다.
    * #notice채널에 본인의 휴가일을 알린다
 8. 가장 바람직한 것은, [주간회의]() 혹은 [일간회의]()의 어젠더를 이용해 본인의 휴가를 알리는 것이다.
 9. 예비군, 선거일 등도 동일하다(연가는 사라지지 않는다. 증명서를 사진찍어서 드라이브에 올린 후 캘린더 메모에 남긴다).
