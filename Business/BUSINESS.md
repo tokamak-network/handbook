@@ -22,7 +22,7 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
 
 + [Plasma EVM 데모영상](https://www.youtube.com/watch?v=jJr0BvRqDR8) (유튜브영상, 국문)
 
-+ [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch]((https://ethresear.ch/), 해외 개발자커뮤니티)   
++ [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) (([ethresear.ch](https://ethresear.ch/), 해외 개발자커뮤니티)   
 
 ## 대표소개
 * [서울이더리움밋업](https://www.meetup.com/ko-KR/Seoul-Ethereum-Meetup/) 공동 조직자
