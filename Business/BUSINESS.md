@@ -1,7 +1,7 @@
 
 # 비즈니스
 
-## 온더가 하고있는 일
+## 온더가 하고 있는 일
 온더는 사이드체인 연구/개발, 블록체인 기술 컨설팅, 스마트컨트랙트 설계 및 개발, 토큰 개발, 코드 감사(Audit),
 분산어플리케이션(Dapp) 서비스 기획 및 개발, 프라이빗 체인 구축/운영 등 이더리움 블록체인 프로젝트의 다양한 분야를 수행하였습니다.
 
@@ -22,4 +22,7 @@ Plasma EVM은 이더리움과 동일한 스펙의 사이드체인으로
 
 + [Plasma EVM 데모영상](https://www.youtube.com/watch?v=jJr0BvRqDR8) (유튜브영상, 국문)
 
-+ [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch 해외 개발자커뮤니티](https://ethresear.ch/))   
++ [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch](https://ethresear.ch/), 해외 개발자커뮤니티)   
+
+## [회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U)
+    * 궁금하신 사항은 info@onther.io로 문의해주세요 :)
