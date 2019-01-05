@@ -25,6 +25,9 @@
 
 ## 입퇴사
 1. [입사(onther.io계정필요)](https://docs.google.com/document/d/1rCd8W6qx1LWTceHkOLanNOdSFL0HSV7sB3yxb2nN-3A/edit)를 참조한다.
+  1. 온더 입사절차 진행
+  2. 온더 핸드북 숙지
+  3. OJT 프로그램 진행
 2. [퇴사(onther.io계정필요)](https://docs.google.com/document/d/1Fzwezwox4UqSdeJ3pDTtnVHSgWVuPCPTIPZV4e9lsE8/edit)를 참고한다.
     * 최소 30일전에는 운영담당자와 미리 협의한다.
 
@@ -54,7 +57,7 @@
 8. 가장 바람직한 것은, [주간회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A3%BC%EA%B0%84%ED%9A%8C%EC%9D%98) 혹은 [일일회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9D%BC%EC%9D%BC%ED%9A%8C%EC%9D%98)의 어젠더를 이용해 본인의 휴가를 알리는 것이다.
 9. 예비군, 선거일 등도 동일하다.
     * 연가는 사라지지 않는다. 증명서를 사진찍어서 드라이브에 올린 후 캘린더 메모에 남긴다
-
+10. 일간/주간회의 불참할 경우, 일간/주간회의 [녹화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%85%B9%ED%99%94) 또는 회의채널을 직접 확인한다. 우리는 팀콜을 이용해 공지사항을 전달하거나, 프로세스를 수정할 때 사용하기 때문이다.
 
 ### 팀장의 역할(휴가와 휴식에 관한)
 팀장은 항상 팀원의 삶의 질에 관심을 가져야 하며, 적절하게 휴가가 이뤄지고 있는지 확인해야 할 의무가 있다. 원격근무가 이뤄지는 환경에서는 삶의 균형이 제대로 맞춰지는지 알아채기 어렵다. 만약 팀장의 입장에서 1:1대면 미팅을 통해 누군가 휴가가 필요한 것으로 판단되면, 잘 쉴 수 있도록 유도하라.
@@ -76,8 +79,8 @@
 2. 연간계획 또는 연간 진행 프로젝트와 관련하여 이야기하는 것을 원칙으로 한다.
 3. 발표가 끝나면 모든 팀원은 발표 팀원에 대해 긍정적인 부분과 발전될 수 있는 부분을 얘기한다. 솔직하게 진심으로 이야기 한다.
 4. 팀원은 다른 팀원의 이야기에 귀 기울이고 본인의 성장을 위해 개선해야할 부분에 대해 생각하는 계기로 삼을 수 있도록 한다.
-    * [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)
-    * [월간회의 및 회고](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9B%94%EA%B0%84%ED%9A%8C%EC%9D%98-%EB%B0%8F-%ED%9A%8C%EA%B3%A0) 참조
+* [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)
+* [월간회의 및 회고](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9B%94%EA%B0%84%ED%9A%8C%EC%9D%98-%EB%B0%8F-%ED%9A%8C%EA%B3%A0) 참조
 
 ### 정량평가
 1. 월간회고를 마치면 담당자는 정량평가 양식을 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) #notice 에 공지한다.

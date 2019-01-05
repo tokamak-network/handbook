@@ -104,7 +104,7 @@
     4. [마이너의 이해(onther.io계정필요)](https://docs.google.com/presentation/d/1d8X4KVdYe8JnSHDYajaWCkzBiGaOKgtdbOaKjUoCdpo/edit?usp=sharing) : 마이너에 관한 일반사항, 노드에 대한 이해
     5. [ICO Contract Development Process(onther.io계정필요)](https://docs.google.com/presentation/d/1l_QZyU9dVQb4ejYKAbtEb1ibsUrjV12dxNmbrn0GlNw/edit?usp=sharing) : ICO와 토큰 개발 과정에 대한 이해
     6. [2018 dappchain(onther.io계정필요)](https://docs.google.com/presentation/d/1v_JqyGL9DNrnU9p8kjOZbb6_rfsnyQ-NkQiblYJ8KNo/edit?usp=sharing) : 2018년 온더의 주요 목표 및 프로젝트
-  * 직접 하는것 : 비트코인 이해 --> 이더리움 이해 순으로 진행, 혼자 공부하고 [발표자료]() 형식으로 만들어 온라인(오프라인) 세미나를 진행, 세미나 시간은 본인이 정해 구글 캘린더에 공유한 후 슬렉 #notice 채널에 공지, 해당 시간에 누구든지 와서 듣고 묻고 답할 수 있음.
+  * 직접 하는것 : 비트코인 이해 --> 이더리움 이해 순으로 진행, 혼자 공부하고 [발표자료](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98) 형식으로 만들어 온라인(오프라인) 세미나를 진행, 세미나 시간은 본인이 정해 구글 캘린더에 공유한 후 슬렉 #notice 채널에 공지, 해당 시간에 누구든지 와서 듣고 묻고 답할 수 있음.
     1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) 정리 및 분석
        * 2,4장 정리 후 세미나(1시간)
        * 5,6장 정리 후 세미나(1시간)
