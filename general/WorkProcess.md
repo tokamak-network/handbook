@@ -17,14 +17,14 @@
 
 
 ### 외부 커뮤니케이션
-SNS가이드라인 참조(준비중)
+    * SNS가이드라인 참조(준비중)
 
 ### 모든 커뮤니케이션은 이슈에서 시작한다
 
 ### 내부 커뮤니케이션
 1. 글을 통해 하는 모든 커뮤니케이션은 한글로 한다. 이는 추후에 영문으로 대체될 수 있다.
 2. 가능한 한 의사소통을 비동기적으로 한다.
-  * 멘션(@이름) + *쓰레드 채팅* > 다이렉트 메시지 > 멘션(@이름)없는 퍼블릭 채팅)
+    * 멘션(@이름) + *쓰레드 채팅* > 다이렉트 메시지 > 멘션(@이름)없는 퍼블릭 채팅)
 3. 그렇지만 비동기적인 의사소통이 기본옵션(default)은 아니다. 채팅이 4~5마디 이상 길어질 경우 즉시 [화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)를 실행한다.
 4. 최대한 많은 질문을 하라. 다만, 질문은 최대한 공개적으로 해서 많은 사람들이 이에 대해서 답변하고 이 답변을 볼 수 있도록 하라.
 5. 무엇인가 언급하면(웹사이트, 풀리퀘스트, 머지, 이슈, 커밋, 코멘트 등) 링크를 첨부하라.
@@ -36,17 +36,17 @@ SNS가이드라인 참조(준비중)
     [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)참조.
 2. 전체가 아닌 3명 이상의 사람에게 메시지를 전달해야 할 때에는, 채팅 채널을 따로 만들어라.
 3. 대화에 다른사람이 언급되지만, 그 사람에게 꼭 알릴 필요가 없을 때는 @ 을 빼고 적어라.
-4. 어떤 문제가 충분히 많은 사람들에게 알려져야 하고, 추적 및 관리해야 된다면 채팅이 아니라 일감(issue)을 만들어라. [Trello]()참조.
+4. 어떤 문제가 충분히 많은 사람들에게 알려져야 하고, 추적 및 관리해야 된다면 채팅이 아니라 일감(issue)을 만들어라. [Trello](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)참조.
 5. 늦은 밤 방해받고 싶지 않다면, [슬랙의 Do not disturb기능](https://get.slack.help/hc/en-us/articles/214908388-Do-Not-Disturb-and-snooze-settings)을 이용하라.
 6. 업무시간이 아니거나, 업무일이 아닐 때에는 꼭 답장하지 않아도 된다.
 7. @here나 @channel은 매우 긴급한 상황이 아니면 사용하지 않는다.
 8. 중요하지만 긴급하지 않은 일은(예를 들어 합격! 축하! 고생했어!) @을 빼고 팀 채널에 남긴다.
-9. [todobot]()은 대화(혹은 회의)를 마치고 할 일이 생겼을 때 남긴다. 꼭 <담당자>를 지정한다. 자세한 내용은 [todobot]()참조.
+9. todobot은 대화(혹은 회의)를 마치고 할 일이 생겼을 때 남긴다. 꼭 <담당자>를 지정한다.
 10. 누군가 채팅의 룰에 어긋나는 행위를 하면, 핸드북 링크를 알려준다.
 
 
 ### 구글 독스
-* 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
+    * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 1. 필요한 내용은 검색을 이용한다.
 2. 전체 디렉토리 구조는 Onther > [Onther Drive Tree(onther.io계정필요)](https://docs.google.com/presentation/d/10JtWq3evSiVBdsDcccV_lK0u4uS1n6Q9RyPPaxBDwgY/edit) 슬라이드를 확인한다.
 
@@ -91,9 +91,8 @@ SNS가이드라인 참조(준비중)
 온더는 [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)을 제일 중요한 가치로 삼는다. 구성원 간의 협력은 서로의 성장을 돕는 일이며 온더의 제일 우선하는 가치를 준수하는 일이다. 감사인사는 구성원을 위해 본인의 시간 혹은 자원을 투입한 상대방에게 적극적으로 고마움을 표현하는 수단이다. 방법은 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)의 #감사 채널에서 상대방을 태그하고(@name) 감사한 세부내용을 적어 #감사 채널에 공유한다.
 
 ## 커피타임
-커피타임의 목적은 원격으로 업무가 이뤄지는 과정에서도 서로간의 인간적인 교류까지 단절되는것은 바람직하지 않기 때문이다. 짝궁은 기본(default)으로 매주 수요일 오후1시 자동으로 매칭되어 캘린더에 반영된다.
-매칭된 짝궁은 일정을 조율하여 해당 시간으로 커피타임을 이동할 수 있고, 반드시 호스트가 [Zoom Meeting](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) 링크를 생성해야한다. 단, 왼쪽에 지정된 name이 호스트 권한을 가지고 있다.
-해당 주간에 커피 한잔을 들고 적어도 30분 이상 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94) 혹은 오프라인대화를 하고, 가능하다면 녹화한다.
+커피타임의 목적은 원격으로 업무가 이뤄지는 과정에서도 서로간의 인간적인 교류까지 단절되는것은 바람직하지 않기 때문이다. 짝궁은 기본(default)으로 매주 수요일 오후1시 자동으로 매칭되어 [온더 캘린더](#온더-캘린더)에 반영된다. 단, 왼쪽에 지정된 name이 호스트 권한을 가지고 있기 때문에 반드시 호스트가 [Zoom Meeting](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) 링크를 생성해야한다. 매칭된 짝궁은 일정을 조율하여 해당 시간으로 커피타임을 유연하게 이동할 수 있다.
+"온더" 모든 팀원은 매주 업무시간에 커피 한잔을 들고 적어도 30분 이상 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)(녹화진행) 혹은 오프라인 대화를 한다.
 
 
 ## 팀콜
