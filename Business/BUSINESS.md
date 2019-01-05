@@ -11,14 +11,14 @@ Plasma EVM은 이더리움과 동일한 스펙의 사이드체인으로
 * 기존에 형성된 개발자 커뮤니티를 그대로 포용할 수 있도록 설계되어, 스마트 컨트랙트를 Solidity로 구현 가능한 체인입니다.
 
 ## PlasmaEVM 관련 페이퍼 및 영상 링크
-+ 누구나 쉽게 이해하는 플라즈마 EVM (슬라이드, 국문)
++ [누구나 쉽게 이해하는 플라즈마 EVM](https://docs.google.com/presentation/d/10SzBYndUXm8OYWNI-n-USXLrJoe3g4eveF51tR-ptgU/edit#slide=id.p) (슬라이드, 국문)
 
-+ Plasma EVM 2.0 (페이퍼, 국문)
++ [Plasma EVM 2.0](https://hackmd.io/ciFhWJJrRbGFqA7Vc6tVJQ) (페이퍼, 국문)
 
-+ Plasma EVM Economics Paper : The Mechanism Design and Economic Philosophy (페이퍼, 국문)
++ [Plasma EVM Economics Paper : The Mechanism Design and Economic Philosophy](https://hackmd.io/s/rJgPxWYTm) (페이퍼, 국문)
 
-+ A proposal for Data availability Solution of Plasma EVM(KR) (페이퍼, 국문)
++ [A proposal for Data availability Solution of Plasma EVM(KR)](https://hackmd.io/s/H1bk0Z-DQ) (페이퍼, 국문)
 
-+ Plasma EVM 데모영상 (유튜브영상, 국문)
++ [Plasma EVM 데모영상](https://www.youtube.com/watch?v=jJr0BvRqDR8) (유튜브영상, 국문)
 
-+ Plasma World Map (ethresear.ch 해외 개발자커뮤니티)   
++ [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333) ([ethresear.ch 해외 개발자커뮤니티](https://ethresear.ch/))   
