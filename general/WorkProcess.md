@@ -17,7 +17,7 @@
 
 
 ### 외부 커뮤니케이션
-    * SNS가이드라인 참조(준비중)
+    SNS가이드라인 참조(준비중)
 
 ### 모든 커뮤니케이션은 이슈에서 시작한다
 
@@ -36,7 +36,7 @@
     [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)참조.
 2. 전체가 아닌 3명 이상의 사람에게 메시지를 전달해야 할 때에는, 채팅 채널을 따로 만들어라.
 3. 대화에 다른사람이 언급되지만, 그 사람에게 꼭 알릴 필요가 없을 때는 @ 을 빼고 적어라.
-4. 어떤 문제가 충분히 많은 사람들에게 알려져야 하고, 추적 및 관리해야 된다면 채팅이 아니라 일감(issue)을 만들어라. [Trello](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)참조.
+4. 어떤 문제가 충분히 많은 사람들에게 알려져야 하고, 추적 및 관리해야 된다면 채팅이 아니라 카드(issue)를 만들어라. [Trello](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)참조.
 5. 늦은 밤 방해받고 싶지 않다면, [슬랙의 Do not disturb기능](https://get.slack.help/hc/en-us/articles/214908388-Do-Not-Disturb-and-snooze-settings)을 이용하라.
 6. 업무시간이 아니거나, 업무일이 아닐 때에는 꼭 답장하지 않아도 된다.
 7. @here나 @channel은 매우 긴급한 상황이 아니면 사용하지 않는다.
@@ -46,13 +46,13 @@
 
 
 ### 구글 독스
-    * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
+  * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 1. 필요한 내용은 검색을 이용한다.
 2. 전체 디렉토리 구조는 Onther > [Onther Drive Tree(onther.io계정필요)](https://docs.google.com/presentation/d/10JtWq3evSiVBdsDcccV_lK0u4uS1n6Q9RyPPaxBDwgY/edit) 슬라이드를 확인한다.
 
 
 ### 프레젠테이션
-* 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
+  * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 1. 프레젠테이션 자료는 기본적으로 구글프레젠테이션을 사용한다. 이는 내부 협력에 용이하며 외부공유에 편리함을 제공하기 때문이다.
 2. 프레젠테이션 작성 시 [온더 표준양식(onther.io계정필요)](https://docs.google.com/presentation/d/1Z2GnkrTP7qT1qp3_dMja5lIqCV7uL5_NNxvr_y7NZ08/edit#slide=id.p)을 사용한다.
 3. 온더 표준양식은 Onther 드라이브에 위치해 있다.
@@ -92,7 +92,7 @@
 
 ## 커피타임
 커피타임의 목적은 원격으로 업무가 이뤄지는 과정에서도 서로간의 인간적인 교류까지 단절되는것은 바람직하지 않기 때문이다. 짝궁은 기본(default)으로 매주 수요일 오후1시 자동으로 매칭되어 [온더 캘린더](#온더-캘린더)에 반영된다. 단, 왼쪽에 지정된 name이 호스트 권한을 가지고 있기 때문에 반드시 호스트가 [Zoom Meeting](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) 링크를 생성해야한다. 매칭된 짝궁은 일정을 조율하여 해당 시간으로 커피타임을 유연하게 이동할 수 있다.
-"온더" 모든 팀원은 매주 업무시간에 커피 한잔을 들고 적어도 30분 이상 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)(녹화진행) 혹은 오프라인 대화를 한다.
+"온더" 모든 팀원은 매주 업무시간에 커피 한잔을 들고 적어도 30분 내외의 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)(녹화진행) 혹은 오프라인 대화를 한다.
 
 
 ## 팀콜
@@ -138,7 +138,8 @@
 매일 봇이 주도하는 일일회의는 자기 통제적인(self controlling)인 목적으로 작성하는 것이며, 한 일을 감시하거나, 확인 받기 위함이 아니다. 자신의 일정은 스스로 계획한다.
 다시 말하지만, 팀콜은 누군가를 감시하는 목적이 아니라, 스스로 그날 하루를 정리, 내일 업무를 계획/기획, 내가 처리하는 업무의 어려움을 팀원과 공유하는 것이 목적이다.
 
-1. 일일회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)  HappyOntherBot봇이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
+1. 주간회의는   [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 좌측하단 Apps에 있다. 
+    * [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
 2. 스케줄은 오후 5:30 ~ 6:30 (답장하지 않을 시 15분마다 메시지를 받는다)
 3. 질문항목: 오늘 한 일, 내일 할 일, 어려운 점, 어젠더, 고마웠던 사람, 고마웠던 이유에 대해 답변한다.
 ```
@@ -160,7 +161,7 @@
   4.1 어젠더의 제목은 무엇인가요?  
   4.2 어젠더의 내용은 무엇인가요?
 5. 도움을 받은 업무에 관해 고마움을 나누는 내용입니다.
-      : 도움을 준 사람의 이름과 이유를 적는다. 꼭 적기를 권장한다.
+      : 도움을 준 사람의 이름과 이유를 적는다(꼭 적기를 권장).
   5.1 도움을 준 사람은 누구인가요?  
   5.2 도움받은 내용은?
 6. 진행중인 일은 명확하고 목적은 분명합니까?
@@ -175,7 +176,8 @@
 ### 주간회의
 매주 금요일 봇이 주도하는 주간회의는 금주를 회고(retrospect)하고 차주를 계획(plan)하고자 하는 목적으로 이뤄진다. 질문을 통해 한 주간 불필요하게 사용된 시간 및 업무와 [효율적](#효율성)으로 이뤄진 업무수행에 대한 부분을 식별하고, 차주의 주요 업무를 계획하게 된다.
 
-1. 주간회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)  [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
+1. 주간회의는   [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 좌측하단 Apps에 있다.
+    * [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
 2. 스케줄은 KST 16:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
 3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 [미팅 or 세미나 or 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)에 대답한다. [세미나](#세미나) 참조
 ```
@@ -228,7 +230,7 @@
 
 ### 화상통화
 원격근무에 따른 부족한 대면 만남을 대신하는 것이다. "온더"는 원격근무를 실시하되 구성원들 모두가 친밀한 관계가 되길 희망한다. 친밀한 관계는 서로의 성장을 돕고 협력하는데 중요한 밑거름이 될 것이며 갈등을 예방할 수 있기 때문이다. 세미나, 팀콜, 회의, 커피타임 등 팀원이 오프라인에서 참여하지 못할 경우 화상통화를 이용한다. 가급적 소음이 적고, 인터넷 환경이 좋은 곳에서 마이크를 이용해 대화하길 권장한다. 기기의 사용은 자유롭게 모바일과 노트북 모두 가능하다. App은 [Zoom](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom)을 이용한다.
-* 채팅이 4~5마디 이상 길어질 경우 즉시 화상통화를 실행한다.
+* 슬랙 채팅이 4~5마디 이상 길어질 경우 즉시 화상통화를 실행한다.
 * 모든 화상통화는 녹화한다.
 * 입장은 [온더 캘린더](#온더-캘린더) URL을 통해 입장한다.
 * 특별한 상황(이동중, 세미나)을 제외하고, Cam On한다.

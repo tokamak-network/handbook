@@ -8,8 +8,8 @@
 그간의 개발 경험과 노하우로 현재는 이더리움 사이드체인 __Plasma EVM__ 을 개발 중에 있습니다.
 
 __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
-  * 이더리움 메인체인의 Dapp들을 그대로 옮길 수 있고
-  * 기존에 형성된 개발자 커뮤니티를 그대로 포용할 수 있도록 설계되어, 스마트 컨트랙트를 Solidity로 구현 가능한 체인입니다.
+    * 이더리움 메인체인의 Dapp들을 그대로 옮길 수 있고
+    * 기존에 형성된 개발자 커뮤니티를 그대로 포용할 수 있도록 설계되어, 스마트 컨트랙트를 Solidity로 구현 가능한 체인입니다.
 
 ## PlasmaEVM 관련 페이퍼 및 영상 링크
 + [누구나 쉽게 이해하는 플라즈마 EVM](https://docs.google.com/presentation/d/10SzBYndUXm8OYWNI-n-USXLrJoe3g4eveF51tR-ptgU/edit#slide=id.p) (슬라이드, 국문)
@@ -40,7 +40,7 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
   * 2016,  [이더리움 스마트 계약(3) - 블록체인에 은행 만들기](https://medium.com/@soonhyungjung/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%84%EC%95%BD-3-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%9D%80%ED%96%89-%EB%A7%8C%EB%93%A4%EA%B8%B0-44a9d58d687a), 철학자(philosopher)
   * 2016,  [블록체인 공부자료 v0.9](https://medium.com/@soonhyungjung/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B3%B5%EB%B6%80-%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC%EC%99%80-%EC%88%9C%EC%84%9C-5c390b5323fa), 철학자(philosopher)
   * 2017,  [변장한 늑대 - 스마트하지 못한 스마트 계약](https://medium.com/@soonhyungjung/%EB%B3%80%EC%9E%A5%ED%95%9C-%EB%8A%91%EB%8C%80-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%84%EC%95%BD-c1a8b09f59ef), 철학자(philosopher)
-* 인터뷰/보도자료
+* 인터뷰, 보도자료
   * 2017,  [Keepit 블록체이너 인터뷰 : 온더 대표 정순형님 1부](https://steemit.com/kr/@keepit/mjghs-keepit-1), 블록체인 저널 Keepit
   * 2017,  [Keepit 블록체이너 인터뷰 : 온더 대표 정순형님 2부](https://steemit.com/kr/@keepit/4t1fvy-keepit-2), 블록체인 저널 Keepit
   * 2018,  [A Guide to Ethereum(ETH) Hard Forks Explained](https://www.youtube.com/watch?v=oQqY7x5uEao), Youtube채널 COINsight
