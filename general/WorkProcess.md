@@ -220,16 +220,15 @@
 2. 필요 시 담당자는 회의실을 예약하고 [온더 캘린더](#온더-캘린더)에 반영한다.
 3. 오프라인으로 참여하지 못하는 경우 [화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)로 참여한다.
 4. 월간회의에 참여하기 전, [월간계획 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다.
-    * [Monthly TeamCall(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.g4bfba756bf_0_153) 참조
+    * [Monthly TeamCall (onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.g4bfba756bf_0_153)
     * [월간회고 작성법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1j60pZeh9drVpIKnY9RlMeNdQElTN_cwe)
     * [월간회고 발표 예시 영상(onther.io계정필요)](https://drive.google.com/drive/folders/1ASP7sHLvsjui7ob4aZEyI1-gy1yGizyy)
 5. 월간회의에서는 해당월의 어젠다와 차월의 어젠다에 대해 이야기한다. 그해 마지막 12월 월간회의에서는 연간회의를 겸한다.
 ```
   1. 지난달 할일
-    + 프로젝트와 카드 위주
-    + 개선점, 잘된점 (지난달 목표와 비교)
-  2. 다음달 할일
-    + 주차별
+    1.1 프로젝트와 카드 위주
+    1.2 개선점, 잘된점 (지난달 목표와 비교)
+  2. 다음달 주차별 할일
   3. 어려운점, 협업이 필요한 부분, 더블체크가 필요한 부분
 ```  
 6. 지원팀은 재무보고를 한다. 온더의 내부사정을 모두 공유하고 투명하게 경영을 이끌어가기 위함이다.
@@ -288,6 +287,7 @@
 
 #### 세미나, 데모, 블로깅 선택 기준
 1. 아이디어가 필요하거나 아이디어를 develop하고 날카롭게 하기 위해서는
+
   빠른 정리를 통해 의견을 피드백 받을 수 있는 세미나를 추천한다.
 2. 만들어진 아이디어를 바탕으로 뭔가 간단하게나마 만들어서 공유하고 피드백이 필요한 경우, 데모를 추천한다.
 3. 그렇게 만들어진, 혹은 날카로워진 새로운 생각과 개선안 대중에게 공유하고 알리고 싶다면, 블로깅를 추천한다.
