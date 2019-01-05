@@ -11,8 +11,10 @@
 
 
 ## 채용
-"온더"는 상시채용을 진행 중이다. 궁금한 점들은 언제든 info@onther.io로 문의하면 된다. 공채는 상반기, 하반기 매년 2회에 걸쳐 진행된다.
-1. 상시채용은 info@onther.io로 지원한다. 공채는 [미디엄](https://medium.com/onther-tech), [블로그](http://blog.onther.io​ ​), [페이스북 페이지](https://www.facebook.com/OntherInc)에 공지한다.
+"온더"는 상시채용을 진행 중이다. 궁금한 점은 언제든 info@onther.io로 문의하면 된다.
+1. 채용 공고는 [미디엄](https://medium.com/onther-tech/tagged/general), [블로그](http://blog.onther.io​ ​), [페이스북 페이지](https://www.facebook.com/OntherInc)에 공지된다.
+  * 상시채용은 공지된 날짜와 관계없이 수시모집하고 있다.
+  * 공채는 상반기, 하반기 매년 2회에 걸쳐 프로세스가 오픈된다.
 2. 서류평가를 진행한다.
 3. 인터뷰는 원격으로 2시간 정도 진행된다.
   * 인터뷰는 지원자와 온더 팀원 양측이 서로를 평가하는 자리이다. 어느 한쪽이 일방적으로 질문하거나 무례한 태도는 삼가야 한다.

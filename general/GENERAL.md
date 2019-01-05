@@ -19,7 +19,7 @@
 
 1. **예의** : 누구든 언제든 서로 도움을 주고 받기 위해서는 올바른 태도와 적절한 예의가 필요하다. 무례한 사람과는 누구도 같이 일하고 싶어하지 않는다.
 2. **부정 피드백은 1:1로** : 부정적인 피드백을 줄 때는 1:1채널을 활용한다. [화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)를 추천한다. 다만 그것이 [결과물](#결과중심)에 대한 것이며, 개선할 대안이 있고, 공유할 가치가 있는 생산적인 피드백은 공개 채널을 활용한다.
-3. **서로를 아는것** : 우리는 많은 의사소통이 글을 통해서 이뤄지기 때문에, 그 글을 쓰는 사람이 어떤 사람인지 알고 있다면 불필요한 갈등을 사전에 예방할 수 있다. 따라서 우리는 [팀콜](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8C%80%EC%BD%9C), [1:1 커피타임](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%BB%A4%ED%94%BC%ED%83%80%EC%9E%84) 및 적어도 [매달 1회의 회식](#회식)을 한다.
+3. **서로를 아는것** : 우리는 많은 의사소통이 글을 통해서 이뤄지기 때문에, 그 글을 쓰는 사람이 어떤 사람인지 알고 있다면 불필요한 갈등을 사전에 예방할 수 있다. 따라서 우리는 [팀콜](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8C%80%EC%BD%9C), [1:1 커피타임](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%BB%A4%ED%94%BC%ED%83%80%EC%9E%84) 및 적어도 [매달 1회의 회식](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9B%94%EA%B0%84%ED%9A%8C%EC%9D%98-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)을 한다.
 3. **감사** : 누군가에게 도움을 받았다면, 공개적으로 감사를 표현하자. 슬렉의 #감사 채널을 활용하자.
 4. **효율적인 피드백** : 피드백을 주는 것은 어렵지만 매우 중요하다. 눈감아 주는게 사랑은 아니다. 적절한 피드백이 없는 것은 서로의 성장을 저해하는 것이다. 더불어 모든 피드백은 [결과물](#결과중심)에 대한 것이어야 하며, 이것이 주는 비즈니스적인 영향에 촛점이 맞춰져야 한다.
 6. **미안하다고 말하기** : 잘못을 했을 때 미안하다고 말하는 것은 내 약점을 드러내는 것이 아니라, 그만큼 스스로가 넓은 그릇을 가진 사람이란 것을 나타내는 것이다.

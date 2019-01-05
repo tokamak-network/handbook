@@ -1,4 +1,4 @@
-# [Work Process](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)
+# Work Process
 
 ## 목차
 
@@ -48,13 +48,13 @@ SNS가이드라인 참조(준비중)
 ### 구글 독스
 * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 1. 필요한 내용은 검색을 이용한다.
-2. 전체 디렉토리 구조는 Onther > [Onther Drive Tree](https://docs.google.com/presentation/d/10JtWq3evSiVBdsDcccV_lK0u4uS1n6Q9RyPPaxBDwgY/edit) 슬라이드를 확인한다.
+2. 전체 디렉토리 구조는 Onther > [Onther Drive Tree(onther.io계정필요)](https://docs.google.com/presentation/d/10JtWq3evSiVBdsDcccV_lK0u4uS1n6Q9RyPPaxBDwgY/edit) 슬라이드를 확인한다.
 
 
 ### 프레젠테이션
 * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
 1. 프레젠테이션 자료는 기본적으로 구글프레젠테이션을 사용한다. 이는 내부 협력에 용이하며 외부공유에 편리함을 제공하기 때문이다.
-2. 프레젠테이션 작성 시 [온더 표준양식](https://docs.google.com/presentation/d/1Z2GnkrTP7qT1qp3_dMja5lIqCV7uL5_NNxvr_y7NZ08/edit#slide=id.p)을 사용한다.
+2. 프레젠테이션 작성 시 [온더 표준양식(onther.io계정필요)](https://docs.google.com/presentation/d/1Z2GnkrTP7qT1qp3_dMja5lIqCV7uL5_NNxvr_y7NZ08/edit#slide=id.p)을 사용한다.
 3. 온더 표준양식은 Onther 드라이브에 위치해 있다.
    * 테마 적용 방법
      1. 상단 <슬라이드> 메뉴 클릭
@@ -101,7 +101,7 @@ SNS가이드라인 참조(준비중)
 2. 일간, 주간, 월간 목표는 __결과물__ 이다.
 3. 회고의 시간은 자기반성의 시간이 아니다. 다른 팀원에게 도움이 되기 위해, 내가 잘못한것보다는 __했는데 비효율 적이었던 것을 공유__ 하는 것이다.
 4. 정해진 시간안에 모두 끝마칠 수 있도록 중요한 내용 위주로 얘기한다.
-5. [Work Process](#Work_Process)를 숙지하고 이해가 되지 않는 것은 질문한다.
+5. [Work Process(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)를 숙지하고 이해가 되지 않는 것은 질문한다.
 6. 팀콜 진행 시에는 필수적으로 Cam On해야한다.
 
 ### 일간팀콜
@@ -189,7 +189,7 @@ SNS가이드라인 참조(준비중)
   2.3 지난주 식별 지속점과 개선점(주간 4.2, 4.3)은 금주에 반영 되었나요? 그렇다면 혹은 그렇지 않다면 이유는 무엇인가요?
 3. 다음주 목표   
   3.1 다음주에 진행할 프로젝트(이슈)를 적어주세요. 해당 내용을 프로젝트의 백로그에 반영해주시고, PM에게 이를 TODO로 옮겨달라고 요청해주세요.
-    https://trello.com/onther  이 항목을 작성하기 전에 PM 및 프로젝트 멤버들과 미리 상의해주세요.
+    https://trello.com/onther (onther.io계정필요) 이 항목을 작성하기 전에 PM 및 프로젝트 멤버들과 미리 상의해주세요.
       : ex.프로젝트1(이슈1,2,3), 프로젝트2(이슈4,5,6)
   3.2 다음주에 주관할 세미나, 데모, 블로깅 내용을 기록해주세요.
 4. 어려운점과 지속점,개선점 공유
@@ -215,7 +215,7 @@ SNS가이드라인 참조(준비중)
     * 스케줄은 KST 17:00 ~ 18:30 (답장하지 않을 시 15분마다 메시지를 받는다)
 2. 필요 시 담당자는 회의실을 예약하고 [온더 캘린더](#온더-캘린더)에 반영한다.
 3. 오프라인으로 참여하지 못하는 경우 "[화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)"로 참여한다.
-4. 월간회의에 참여하기 전, [월간회의 및 월간회고록](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다.
+4. 월간회의에 참여하기 전, [월간회의 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다.
 5. 월간회의에서는 해당월의 어젠다와 차월의 어젠다에 대해 이야기한다. 그해 마지막 12월 월간회의에서는 연간회의를 겸한다.
 6. 지원팀은 재무보고를 한다. 온더의 내부사정을 모두 공유하고 투명하게 경영을 이끌어가기 위함이다.
     1. 해당월의 지출현황, 매출액현황, 향후 6개월~1년 재무현황에 대해 이야기 한다.
@@ -250,7 +250,7 @@ SNS가이드라인 참조(준비중)
 
 
 ### 팀원 연락망
-  * [비상연락망](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)을 참조한다.
+  * [비상연락망(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)을 참조한다.
 
 <!-- ### 업무 가능일(시간) -->
 
@@ -322,8 +322,8 @@ SNS가이드라인 참조(준비중)
 ### 줌(Zoom)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
 2. "온더"에서 진행하는 [화상회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)는 해당 내용을 숙지해야 한다.
-    * [온더 Zoom 사용법 문서](https://docs.google.com/presentation/d/18WbgVf5SNenByvPWZixcc5R2xA9WOKIkUx4S1jFLgVk/edit#slide=id.g4a4368afd7_0_0)
-    * [온더 Zoom 사용법 영상](https://drive.google.com/drive/folders/10mgxrv3wt-vHXwb6_7NqYGsotYXbmAyb)
+    * [온더 Zoom 사용법 문서(onther.io계정필요)](https://docs.google.com/presentation/d/18WbgVf5SNenByvPWZixcc5R2xA9WOKIkUx4S1jFLgVk/edit#slide=id.g4a4368afd7_0_0)
+    * [온더 Zoom 사용법 영상(onther.io계정필요)](https://drive.google.com/drive/folders/10mgxrv3wt-vHXwb6_7NqYGsotYXbmAyb)
 3. 처음 사용자는 세미나 시간 지연 및 녹화가 누락되지 않도록 녹화, 비디오 및 오디오 테스트를 사전에 완료해야 한다.
 4. 미팅 leave 이후, 컨버팅이 완전히 끝나지 않은 상태에서 PC를 끄면 안된다.
 5. 내부 회의(일간,주간,월간 회의 등)는 필수적으로 Cam On한다.
@@ -331,11 +331,11 @@ SNS가이드라인 참조(준비중)
 
 ### 미디엄(Medium)
 * 주의사항: 한번 퍼블리시된 미디엄글은 삭제를 금지한다.
-* [온더 Medium 활용법](https://docs.google.com/presentation/d/1MocTeewdMa6lImJ1DvlG7OwJ2xN198TwhJxI7pNdpY8/edit#slide=id.p)
+* [온더 Medium 활용법(onther.io계정필요)](https://docs.google.com/presentation/d/1MocTeewdMa6lImJ1DvlG7OwJ2xN198TwhJxI7pNdpY8/edit#slide=id.p)
 
 
 ### 트렐로(Trello)
-* [온더 칸반 템플릿과 사용 가이드](https://trello.com/b/FZSPKJkp/%EC%98%A8%EB%8D%94%EC%B9%B8%EB%B0%98-%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)와 [Work Process](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)를 함께 보면 도움이 된다.
+* [온더 칸반 템플릿과 사용 가이드(onther.io계정필요)](https://trello.com/b/FZSPKJkp/%EC%98%A8%EB%8D%94%EC%B9%B8%EB%B0%98-%ED%85%9C%ED%94%8C%EB%A6%BF%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)와 [Work Process(onther.io계정필요)](https://docs.google.com/presentation/d/1hxfp-OimA1d4VRU74HyERJPPF04rNYxIUy42qQglLGA/edit#slide=id.p)를 함께 보면 도움이 된다.
 * 칸반보드는 업무 특성에 따라서 다양한 방식이 도입될 수 있다. 주간팀콜을 통해서 유연하게 조정할 필요가 있다.
 * 각 보드의 규칙은 __자유롭다.__ 팀원들간 피드백을 통해 각자 스스로 만든다.
 
