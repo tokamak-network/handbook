@@ -25,9 +25,9 @@
 
 ## 입퇴사
 1. [입사(onther.io계정필요)](https://docs.google.com/document/d/1rCd8W6qx1LWTceHkOLanNOdSFL0HSV7sB3yxb2nN-3A/edit)를 참조한다.
-  1. 온더 입사절차 진행
-  2. 온더 핸드북 숙지
-  3. OJT 프로그램 진행
+    1. 온더 입사절차 진행
+    2. 온더 핸드북 숙지
+    3. OJT 프로그램 진행
 2. [퇴사(onther.io계정필요)](https://docs.google.com/document/d/1Fzwezwox4UqSdeJ3pDTtnVHSgWVuPCPTIPZV4e9lsE8/edit)를 참고한다.
     * 최소 30일전에는 운영담당자와 미리 협의한다.
 
