@@ -61,6 +61,8 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
 
 
 
-__궁금하신 사항은 info@onther.io로 편하게 문의해주세요. 감사합니다__ :blush:{: .text_center}
+__궁금하신 사항은 info@onther.io로 편하게 문의해주세요. 감사합니다__ :blush:
 
 ![onther_logo](https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png)
+
+<img align="right" src="https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png">
