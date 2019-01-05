@@ -17,14 +17,14 @@
     * [도구](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%8F%84%EA%B5%AC)
     * [깃을 이용해 문서를 업데이트하는법](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B9%83%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
 
-* [인사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md)
+## [인사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md)
   * [채용](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%B1%84%EC%9A%A9)
   * [입퇴사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%9E%85%ED%87%B4%EC%82%AC)
   * [휴가와 쉬는것](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%ED%9C%B4%EA%B0%80%EC%99%80-%EC%89%AC%EB%8A%94%EA%B2%83)
   * [인센티브](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C)
   * [공금사용](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EA%B3%B5%EA%B8%88%EC%82%AC%EC%9A%A9)
 
-* [엔지니어링](./engineering/ENGINEERING.md)
+## [엔지니어링](./engineering/ENGINEERING.md)
   * [공통사항](https://github.com/Onther-Tech/handbook/blob/master/engineering/ENGINEERING.md#%EA%B3%B5%ED%86%B5%EC%82%AC%ED%95%AD)
   * [온더 개발자 OJT 프로그램](https://github.com/Onther-Tech/handbook/blob/master/engineering/ENGINEERING.md#%EA%B0%9C%EB%B0%9C%EC%9E%90-ojt-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
   * [스마트 컨트렉트 개발팀](https://github.com/Onther-Tech/handbook/blob/master/engineering/ENGINEERING.md#%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%8C%80)
@@ -34,11 +34,11 @@
   * [리서칭팀](https://github.com/Onther-Tech/handbook/blob/master/engineering/ENGINEERING.md#%EB%A6%AC%EC%84%9C%EC%B2%98)
   * 프론트엔드
 
-* [마케팅]()
+## [커뮤니케이션 채널]()
   * 웹사이트
   * 블로그
-  * SNS가이드라인
-  * 제품 마케팅
+  * SNS 가이드라인
+  * 제품
 
 * [영업]()
 
