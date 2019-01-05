@@ -17,7 +17,7 @@
 
 
 ### 외부 커뮤니케이션
-    SNS가이드라인 참조(준비중)
+  SNS가이드라인 참조(준비중)
 
 ### 모든 커뮤니케이션은 이슈에서 시작한다
 
@@ -79,7 +79,7 @@
    1. 파일명 위에서 오른쪽 마우스 클릭, ‘공유’를 누른다
    2. 고급을 누른다.
    3. 특성사용자가 액세스 할 수 있습니다 옆 ‘변경..’ 클릭
-   4. 사용-링크가 있는 모든 사용자 or 적절한 옵션을 선택한다.
+   4. 사용-링크가 있는 모든 사용자 또는 적절한 옵션을 선택한다.
       * 외부이용자에게 수정권한을 주지 않으려면 액세스 범위 모든 사용자(로그인 필요 없음) 에서 '보기 가능'으로 선택한다.
    5. 링크주소를 복사하여 사용한다.
 6. 프레젠테이션 내부 공유 방법
@@ -138,9 +138,9 @@
 매일 봇이 주도하는 일일회의는 자기 통제적인(self controlling)인 목적으로 작성하는 것이며, 한 일을 감시하거나, 확인 받기 위함이 아니다. 자신의 일정은 스스로 계획한다.
 다시 말하지만, 팀콜은 누군가를 감시하는 목적이 아니라, 스스로 그날 하루를 정리, 내일 업무를 계획/기획, 내가 처리하는 업무의 어려움을 팀원과 공유하는 것이 목적이다.
 
-1. 주간회의는   [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 좌측하단 Apps에 있다. 
+1. 일일회의는   [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 좌측하단 Apps에 있다.
     * [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
-2. 스케줄은 오후 5:30 ~ 6:30 (답장하지 않을 시 15분마다 메시지를 받는다)
+2. 스케줄은 매일 KST 18:30 ~ 19:00 (답장하지 않을 시 15분마다 메시지를 받는다)
 3. 질문항목: 오늘 한 일, 내일 할 일, 어려운 점, 어젠더, 고마웠던 사람, 고마웠던 이유에 대해 답변한다.
 ```
 1. 오늘 진행한 일에 관한 질문입니다
@@ -161,7 +161,7 @@
   4.1 어젠더의 제목은 무엇인가요?  
   4.2 어젠더의 내용은 무엇인가요?
 5. 도움을 받은 업무에 관해 고마움을 나누는 내용입니다.
-      : 도움을 준 사람의 이름과 이유를 적는다(꼭 적기를 권장).
+      : 도움을 준 사람의 이름과 이유를 적는다.(꼭 적기를 권장)
   5.1 도움을 준 사람은 누구인가요?  
   5.2 도움받은 내용은?
 6. 진행중인 일은 명확하고 목적은 분명합니까?
@@ -174,12 +174,12 @@
 
 
 ### 주간회의
-매주 금요일 봇이 주도하는 주간회의는 금주를 회고(retrospect)하고 차주를 계획(plan)하고자 하는 목적으로 이뤄진다. 질문을 통해 한 주간 불필요하게 사용된 시간 및 업무와 [효율적](#효율성)으로 이뤄진 업무수행에 대한 부분을 식별하고, 차주의 주요 업무를 계획하게 된다.
+주간회의는 금주를 회고(retrospect)하고 차주를 계획(plan)하고자 하는 목적으로 이뤄진다. 질문을 통해 한 주간 불필요하게 사용된 시간 및 업무와 [효율적](#효율성)으로 이뤄진 업무수행에 대한 부분을 식별하고, 차주의 주요 업무를 계획하게 된다.
 
 1. 주간회의는   [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 좌측하단 Apps에 있다.
     * [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
-2. 스케줄은 KST 16:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
-3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 [미팅 or 세미나 or 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)에 대답한다. [세미나](#세미나) 참조
+2. 스케줄은 매주 금요일 KST 18:00 ~ 18:30 (답장하지 않을 시 15분마다 메시지를 받는다)
+3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 [미팅, 세미나, 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)일정에 대답한다. [세미나](#세미나) 참조
 ```
 1. 목표에 관한 질문입니다   
   1.1 이번달 월 중점 목표는 무엇인가요?
@@ -205,7 +205,7 @@
       : 한주 간 이뤄졌던 일 중, 가장 후회스럽고 효율성이 떨어졌던 일에 대해서 적는다. 적고 나서 반성한다.
 ```
 4. 월간 계획을 바탕으로 주간 목표의 우선순위를 수정할 수 있다.
-   * 차주 [미팅/세미나/데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80) : [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)과 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 위해 차주의 할 일과 연관되어 진행할 [데모](#데모)/[세미나](#세미나), 혹은 정해진 미팅을 적는다. 이후에 직접 [캘린더](#온더-캘린더)에 반영한다.
+   * 차주 [미팅, 세미나, 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)일정 : [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)과 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 위해 차주의 할 일과 연관되어 진행할 [데모](#데모)/[세미나](#세미나), 혹은 정해진 미팅을 적는다. 이후에 직접 [캘린더](#온더-캘린더)에 반영한다.
 5. 질문메시지가 오면 질문에 대한 답을 한다.
     * [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)에게 메시지를 보낸다.
 6. 답을 한 메시지는 쓰레드 edit으로 수정가능하다.
@@ -216,8 +216,8 @@
 ### 월간회의 및 회고
 연간계획에 맞추어 계획대로 이루어진 것들을 점검하는 시간이다. 월간회의는 당월 완료된 이슈의 결과물을 공유하고, 전월에 기록한 월간 계획의 *목표* 와 비교하고 회고한다. 추가로 지원팀의 재무활동 월간보고를 통해 회사내부사정을 공유하고 향후 방향성에 대해 토의한다.
 
-1. 월간회의는 기본적으로 매월 마지막 주 금요일 주간회의 다음에 이루어진다.
-    * 스케줄은 KST 17:00 ~ 18:30 (답장하지 않을 시 15분마다 메시지를 받는다)
+1. 월간회의는 기본적으로 매월 마지막 주 금요일 주간회의 이전에 이루어진다.
+    * 스케줄은 KST 17:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
 2. 필요 시 담당자는 회의실을 예약하고 [온더 캘린더](#온더-캘린더)에 반영한다.
 3. 오프라인으로 참여하지 못하는 경우 "[화상통화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)"로 참여한다.
 4. 월간회의에 참여하기 전, [월간회의 및 월간회고록(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNQzJGYVN0UUJLOHM)을 작성한다.
@@ -247,7 +247,7 @@
 
 ### 온더 캘린더
   1. 카테고리를 “온더” 항목으로 생성해야 팀원 모두가 확인할 수 있다.
-  2. 반복적인 일정 입력 or 설명을 추가하고 싶은 경우 “옵션 더보기” 클릭, 반복 안함 드롭다운 목록에서 다른 항목을 선택한다. 설명 추가부분에 설명을 추가한다.
+  2. 반복적인 일정 입력하거나, 설명을 추가하고 싶은 경우 “옵션 더보기” 클릭, 반복 안함 드롭다운 목록에서 다른 항목을 선택한다. 설명 추가부분에 설명을 추가한다.
   3. 온더 아이디에 색변경은 관리자의 허락없이 수정하지 않는다.
   4. 기존일정을 수정하고 싶은 경우 기존 일정위에서 클릭, 연필모양 아이콘을 클릭하여 수정한다.
   5. 기존일정을 삭제하고 싶은 경우 휴지통 아이콘을 클릭 온더의 일정을 내 일정으로 복사하고 싶은 경우 휴지통아이콘 옆 햄버거 메뉴(옵션)를 클릭하여 “다음으로 복사: ㅇㅇㅇ” 클릭한다.
