@@ -42,6 +42,6 @@
 
 ## [비즈니스](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md)
 
-## [재무회계]()
+<!-- ## [재무회계]() -->
 
-## [법무]()
+<!-- ## [법무]() -->
