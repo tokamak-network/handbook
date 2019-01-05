@@ -2,8 +2,11 @@
 이 핸드북은 회사가 어떻게 운영 되는지에 관한 핵심 저장소입니다. 이 내용은 누구든지 열람할 수 있으며, 이에 대한 개선안과 피드백은 어느 누구든지 주실 수 있습니다. 이에 대한 개선안이 있다면 언제든지 pull request를 해 주시기를 바라며, 궁금한 점이 있으면 언제든지 issue를 내 주시기 바랍니다.
 
 ## [비즈니스](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md)
+* [PlasmaEVM 관련 페이퍼 및 영상 링크](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#plasmaevm-%EA%B4%80%EB%A0%A8-%ED%8E%98%EC%9D%B4%ED%8D%BC-%EB%B0%8F-%EC%98%81%EC%83%81-%EB%A7%81%ED%81%AC)
 * [온더가 하고있는 일](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#%EC%98%A8%EB%8D%94%EA%B0%80-%ED%95%98%EA%B3%A0%EC%9E%88%EB%8A%94-%EC%9D%BC)
 * [대표소개](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#%EB%8C%80%ED%91%9C%EC%86%8C%EA%B0%9C)
+* [회사소개](https://github.com/Onther-Tech/handbook/blob/master/Business/BUSINESS.md#%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C)
+
 
 ## [일반사항](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%9D%BC%EB%B0%98%EC%82%AC%ED%95%AD)
   * [일반사항](./general/GENERAL.md#일반사항)
