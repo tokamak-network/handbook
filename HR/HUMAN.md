@@ -23,8 +23,8 @@
 
 
 ## 입퇴사
-1. [입사(onther.io계정필요)](https://docs.google.com/document/d/1rCd8W6qx1LWTceHkOLanNOdSFL0HSV7sB3yxb2nN-3A/edit)
-2. [퇴사(onther.io계정필요)](https://docs.google.com/document/d/1Fzwezwox4UqSdeJ3pDTtnVHSgWVuPCPTIPZV4e9lsE8/edit)
+1. [입사(onther.io계정필요)](https://docs.google.com/document/d/1rCd8W6qx1LWTceHkOLanNOdSFL0HSV7sB3yxb2nN-3A/edit)를 참조한다.
+2. [퇴사(onther.io계정필요)](https://docs.google.com/document/d/1Fzwezwox4UqSdeJ3pDTtnVHSgWVuPCPTIPZV4e9lsE8/edit)를 참고한다.
     * 최소 30일전에는 운영담당자와 미리 협의한다.
 
 
@@ -40,7 +40,7 @@
    * 다만 휴가 기간 중에 진행중인 일을 꼭 누군가 책임질 수 있도록 해야 한다.
    * 1년 중 적어도 본인에게 주어진 휴가 중 80퍼센트 이상을 꼭 사용할 수 있도록 해야 하며, 그렇지 않다면 팀장은 무엇이 문제인지에 대해서 이야기를 나눠야 한다.
 2. 휴가동안 공동업무 및 담당 업무에 공백이 생지 않도록 대리자를 지정하거나 미리 조치한다.
-    >ex. 금요일 휴가라면 차주 세미나는 확정하고, 월간/주간회의는 미리 작성하거나 대신 작성해 줄 사람을 지정한다.
+    * ex. 금요일 휴가라면 차주 세미나는 확정하고, 월간/주간회의는 미리 작성하거나 대신 작성해 줄 사람을 지정한다.
 
 3. 1개월 만근 시 1일 휴가가 생긴다(근로계약 형태와 상관 없다).
 4. 사용되지 않는 연차휴가는 1년간 행사하지 않으면 소멸된다.
@@ -82,7 +82,7 @@
 2. 정량평가는 월간회고를 근거로 팀별로 진행한다.
 3. 정량평가의 결과는 공과를 나누기 위한 근거자료가 될 수 있다.
 4. 입사일에 따라 투표점수가 다르다. 30일 기준으로 100점을 부여받는다. 할당된 점수를 팀원에게 투표한다. 여기서 팀원이란 본인, 대표이사 등을 포함한 모든 팀원을 이야기 한다. 팀원에게 투표한 총합은 할당된 점수와 일치하여야 한다.
-    >ex.할당점수:100점 A: 25점 B: 23점 C: 26점 D: 26점
+    * ex.할당점수:100점 A: 25점 B: 23점 C: 26점 D: 26점
 
 
 ## 인센티브
