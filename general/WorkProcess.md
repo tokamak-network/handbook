@@ -63,7 +63,7 @@ SNS가이드라인 참조(준비중)
      5. <선택> 버튼 클릭
 4. 프레젠테이션 작성법
    * 작성자: 국문이름(영문이름) ex.정순형(kevin)
-   * 작성자 정보: 그 아래에는 '작성자의 이메일' or 온더 대표메일 info@onther.io 를 적는다.
+   * 작성자 정보: 그 아래에는 '작성자의 이메일' 또는 온더 대표메일 info@onther.io 를 적는다.
    * 작성일자  
    * 지난 세미나 피드백
    * 이번 세미나 목적
@@ -91,13 +91,13 @@ SNS가이드라인 참조(준비중)
 
 ## 커피타임
 커피타임의 목적은 원격으로 업무가 이뤄지는 과정에서도 서로간의 인간적인 교류까지 단절되는것은 바람직하지 않기 때문이다. 짝궁은 기본(default)으로 매주 수요일 오후1시 자동으로 매칭되어 캘린더에 반영된다.
-매칭된 짝궁은 일정을 조율하여 해당 시간으로 커피타임을 이동할 수 있고, 반드시 호스트가 [Zoom](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) Meeting 링크를 생성해야한다. 단, 왼쪽에 지정된 name이 호스트 권한을 가지고 있다.
-해당 주간에 커피 한잔을 들고 적어도 30분 이상 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94)(오프라인대화)를 하고, 녹화한다.
+매칭된 짝궁은 일정을 조율하여 해당 시간으로 커피타임을 이동할 수 있고, 반드시 호스트가 [Zoom Meeting](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) 링크를 생성해야한다. 단, 왼쪽에 지정된 name이 호스트 권한을 가지고 있다.
+해당 주간에 커피 한잔을 들고 적어도 30분 이상 [화상대화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%99%94%EC%83%81%ED%86%B5%ED%99%94) 혹은 오프라인대화를 하고, 가능하다면 녹화한다.
 
 
 ## 팀콜
 1. 일간회의, 주간회의, 월간회의 링크가 모두 다르니, 각 회의가 종료되면 캘린더에서 해당 링크로 재 접속해야 한다.
-2. 일간, 주간, 월간 목표는 = 결과물 이다.
+2. 일간, 주간, 월간 목표는 __결과물__ 이다.
 3. 회고의 시간은 자기반성의 시간이 아니다. 다른 팀원에게 도움이 되기 위해, 내가 잘못한것보다는 __했는데 비효율 적이었던 것을 공유__ 하는 것이다.
 4. 정해진 시간안에 모두 끝마칠 수 있도록 중요한 내용 위주로 얘기한다.
 5. [Work Process](#Work_Process)를 숙지하고 이해가 되지 않는 것은 질문한다.
@@ -249,7 +249,7 @@ SNS가이드라인 참조(준비중)
 
 
 ### 팀원 연락망
-  * [비상연락망](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)
+  * [비상연락망](https://docs.google.com/spreadsheets/d/1ared9QBh9b-R59cPiARLCaOgMsDMbm9UkJ2cNpg3tI0/edit?usp=drive_web&ouid=116856127395455601487)을 참조한다.
 
 <!-- ### 업무 가능일(시간) -->
 
@@ -265,8 +265,8 @@ SNS가이드라인 참조(준비중)
 
 ## 세미나
 세미나는 팀 구성원간 상호 지식 교류를 통해 본인 스스로와 서로의 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 도모하기 위한 활동이다. 세미나는 [주간회의](#주간회)를 통해 정해지며, "온더" 팀원들은 의무적으로 주1회 이상의 세미나, 데모 혹은 블로깅을 목표로 개인 일정을 계획한다. 세미나를 주최하는 사람을 튜터, 세미나에 참여하는 사람을 튜티라 한다. 튜터는 다음의 과정을 통해서 세미나를 공지 및 수행하며, [녹화](#녹화)하고 공유할 의무가 있다.
-    * 목적: 내가한 업무를 가장 효율적으로 **공유** 보여줄 수 있는 것을 선택한다.
-    * 수단: 세미나,데모,블로그 글 택(선택시 단에 매몰되지 말고, 목적에 충실할 것)
+  * 목적: 내가한 업무를 가장 효율적으로 **공유** 보여줄 수 있는 것을 선택한다.
+  * 수단: 세미나,데모,블로그 글 택(선택시 단에 매몰되지 말고, 목적에 충실할 것)
 
 
 #### 세미나, 데모, 블로깅 선택 기준
@@ -280,7 +280,7 @@ SNS가이드라인 참조(준비중)
 2. 일정 추가: [온더 캘린더](#온더-캘린더)에 일정을 추가한다.
     1. 캘린더 제목추가 규칙: 제목_발표자 영문이름(필참 팀원의 영문이름)
        ex. 누구나 쉽게 이해하는 PlasmaEVM_kevin(zoe,carl)
-    2. 링크생성 방식: 캘린더에서 [Zoom](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) Meeting 링크를 생성한다.
+    2. 링크생성 방식: 캘린더에서 [Zoom Meeting](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A4%8Czoom) 링크를 생성한다.
     3. 발표자료 공유 방식: 캘린더 메모에 세미나 발표 자료 URL을 반드시 적는다.
 3. 발표자료 작성 [4. 프레젠테이션 작성법](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98) 참조
     * 세미나 시작할때, 지난번 세미나 피드백, 이번 세미나 목적 밝히고 시작해야 한다.
@@ -340,11 +340,9 @@ SNS가이드라인 참조(준비중)
 
 ### HacMD
 * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
-(준비중)
 
 ### Notion
 * 주의사항: 한번 퍼블리시된 자료는 삭제를 금지한다.
-(준비중)
 
 ### YouTube
 (준비중)
