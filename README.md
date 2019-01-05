@@ -2,18 +2,20 @@
 이 핸드북은 회사가 어떻게 운영 되는지에 관한 핵심 저장소입니다. 이 내용은 누구든지 열람할 수 있으며, 이에 대한 개선안과 피드백은 어느 누구든지 주실 수 있습니다. 이에 대한 개선안이 있다면 언제든지 pull request를 해 주시기를 바라며, 궁금한 점이 있으면 언제든지 issue를 내 주시기 바랍니다.
 
 
-* [일반사항](./general/GENERAL.md#일반사항)
-  * [목적](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%AA%A9%EC%A0%81)
-  * [가치](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B0%80%EC%B9%98)
-  * [커뮤니케이션](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98)
-  * [감사인사](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EA%B0%90%EC%82%AC%EC%9D%B8%EC%82%AC)
-  * [팀콜](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8C%80%EC%BD%9C)
-  * [회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%9A%8C%EC%9D%98)
-  * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%B3%B4%EC%95%88)
-  * [세미나](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98)
-  * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%B3%B4%EC%95%88)
-  * [도구](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%8F%84%EA%B5%AC)
-  * [깃을 이용해 문서를 업데이트하는법](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B9%83%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
+## 일반사항
+  * [일반사항](./general/GENERAL.md#일반사항)
+    * [목적](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EB%AA%A9%EC%A0%81)
+    * [가치](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B0%80%EC%B9%98)
+  * [Work Process](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#work-process)
+    * [커뮤니케이션](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98)
+    * [감사인사](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EA%B0%90%EC%82%AC%EC%9D%B8%EC%82%AC)
+    * [팀콜](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8C%80%EC%BD%9C)
+    * [회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%9A%8C%EC%9D%98)
+    * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%B3%B4%EC%95%88)
+    * [세미나](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98)
+    * [보안](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%B3%B4%EC%95%88)
+    * [도구](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%8F%84%EA%B5%AC)
+    * [깃을 이용해 문서를 업데이트하는법](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EA%B9%83%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
 
 * [인사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md)
   * [채용](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%B1%84%EC%9A%A9)
