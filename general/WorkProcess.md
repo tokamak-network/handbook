@@ -139,7 +139,7 @@ SNS가이드라인 참조(준비중)
 매일 봇이 주도하는 일일회의는 자기 통제적인(self controlling)인 목적으로 작성하는 것이며, 한 일을 감시하거나, 확인 받기 위함이 아니다. 자신의 일정은 스스로 계획한다.
 다시 말하지만, 팀콜은 누군가를 감시하는 목적이 아니라, 스스로 그날 하루를 정리, 내일 업무를 계획/기획, 내가 처리하는 업무의 어려움을 팀원과 공유하는 것이 목적이다.
 
-1. 일일회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 챗봇 HappyOntherBot봇이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
+1. 일일회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)  HappyOntherBot봇이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
 2. 스케줄은 오후 5:30 ~ 6:30 (답장하지 않을 시 15분마다 메시지를 받는다)
 3. 질문항목: 오늘 한 일, 내일 할 일, 어려운 점, 어젠더, 고마웠던 사람, 고마웠던 이유에 대해 답변한다.
 ```
@@ -166,16 +166,17 @@ SNS가이드라인 참조(준비중)
   5.2 도움받은 내용은?
 6. 진행중인 일은 명확하고 목적은 분명합니까?
 ```  
-4. 질문메시지가 오면 질문에 대한 답을 한다.(챗봇에게 메시지를 보낸다.)
+4. 질문메시지가 오면 질문에 대한 답을 한다.
+    * [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)에게 메시지를 보낸다.
 5. 답을 한 메시지는 쓰레드 edit으로 수정가능하다.
 6. 대답을 모두 완료하면 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) #회의채널에 쓰레드로 남겨진다.
-7. 45분 안에 답장하지 못하거나 챗봇에 문제가 있을 경우, 슬랙 #회의채널 쓰레드에 댓글로 내용을 직접 남긴다.
+7. 45분 안에 답장하지 못하거나 [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)에 문제가 있을 경우, 슬랙 #회의채널 쓰레드에 댓글로 내용을 직접 남긴다.
 
 
 ### 주간회의
 매주 금요일 봇이 주도하는 주간회의는 금주를 회고(retrospect)하고 차주를 계획(plan)하고자 하는 목적으로 이뤄진다. 질문을 통해 한 주간 불필요하게 사용된 시간 및 업무와 [효율적](#효율성)으로 이뤄진 업무수행에 대한 부분을 식별하고, 차주의 주요 업무를 계획하게 된다.
 
-1. 주간회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) 챗봇 HappyOntherBot봇이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
+1. 주간회의 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)  [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)이 주도한다. 슬랙 좌측하단 Apps에 있다. 추가적으로 [트렐로](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%8A%B8%EB%A0%90%EB%A1%9Ctrello)를 이용하여 이슈를 추적한다.
 2. 스케줄은 KST 16:00 ~ 18:00 (답장하지 않을 시 15분마다 메시지를 받는다)
 3. 질문항목: 하지 말아야 될 일, 해야될 일, 차주에 할일, 차주 [미팅 or 세미나 or 데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80)에 대답한다. [세미나](#세미나) 참조
 ```
@@ -204,7 +205,8 @@ SNS가이드라인 참조(준비중)
 ```
 4. 월간 계획을 바탕으로 주간 목표의 우선순위를 수정할 수 있다.
    * 차주 [미팅/세미나/데모](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%84%B8%EB%AF%B8%EB%82%98-%EB%8D%B0%EB%AA%A8-%EB%B8%94%EB%A1%9C%EA%B9%85-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80) : [협동](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%ED%98%91%EB%8F%99)과 [성장](https://github.com/Onther-Tech/handbook/blob/master/general/GENERAL.md#%EC%84%B1%EC%9E%A5)을 위해 차주의 할 일과 연관되어 진행할 [데모](#데모)/[세미나](#세미나), 혹은 정해진 미팅을 적는다. 이후에 직접 [캘린더](#온더-캘린더)에 반영한다.
-5. 질문메시지가 오면 질문에 대한 답을 한다.(챗봇에게 메시지를 보낸다.)
+5. 질문메시지가 오면 질문에 대한 답을 한다.
+    * [HappyOntherBot](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)에게 메시지를 보낸다.
 6. 답을 한 메시지는 쓰레드 edit으로 수정가능하다.
 7. 대답을 모두 완료하면 [슬랙](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack) #회의채널에 쓰레드로 남겨진다.
 8. 45분 안에 답장하지 못하거나 챗봇에 문제가 있을 경우, 슬랙 #회의채널 쓰레드에 댓글로 내용을 직접 남긴다.
@@ -320,6 +322,7 @@ SNS가이드라인 참조(준비중)
 2. 채널 #notice에서는 사적인 대화를 제한한다.
 3. [내부 커뮤니케이션](#내부-커뮤니케이션), [채팅](#채팅)을 참조한다.
 4. 멘션: 온더 이더리움 연구소 그룹 멘션(@lab), 기획지원팀 멘션(@business)
+5. HappyOntherBot: "온더"의 일일회의, 주간회의를 주도하는 챗봇이다.
 
 ### 줌(Zoom)
 1. 회사계정으로 로그인해야 기능의 제약없이 이용 가능하다.
