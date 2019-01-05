@@ -13,7 +13,7 @@
 
 
 ## 커뮤니케이션
-우리는 탈중앙화(decentralized)되어 있으며, <원격근무를 지향>하는 회사로써, 서로 멀리 떨어져 있음에도 불구하고 일이 빠짐없이 이루어져야 한다. 이를 위해, 우리는 비동기적인 커뮤니케이션(asynchronous communication)을 하며 될 수 있는 한 모든 커뮤니케이션을 개방하고, 모든 일을 [트렐로](#트렐로(Trello))와 [슬랙 채널](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)을 통해 이뤄지도록 하며, 오프라인 회의를 통해 나온 모든 결론들을 온라인에 기록하는 방식을 사용한다. 이러한 커뮤니케이션의 기술들은 보다 유기적인 의사소통을 위한 기폭제로 사용된다.
+우리는 탈중앙화(decentralized)되어 있으며, <원격근무를 지향>하는 회사로써, 서로 멀리 떨어져 있음에도 불구하고 일이 빠짐없이 이루어져야 한다. 이를 위해, 우리는 비동기적인 커뮤니케이션(asynchronous communication)을 하며 될 수 있는 한 모든 커뮤니케이션을 개방하고, 모든 일을 [트렐로](#트렐로Trello)와 [슬랙 채널](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%8A%AC%EB%9E%99slack)을 통해 이뤄지도록 하며, 오프라인 회의를 통해 나온 모든 결론들을 온라인에 기록하는 방식을 사용한다. 이러한 커뮤니케이션의 기술들은 보다 유기적인 의사소통을 위한 기폭제로 사용된다.
 
 
 ### 외부 커뮤니케이션
