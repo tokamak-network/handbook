@@ -50,6 +50,4 @@
 
 <!-- ## [법무]() -->
 
-<p align="center">
-  <img src="https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png"/>
-</p>
+<img align="right" src="https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png">
