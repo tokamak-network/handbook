@@ -47,7 +47,7 @@ __Plasma EVM__ 은 이더리움과 동일한 스펙의 사이드체인으로
   * 2016,  [이더리움 스마트 계약(3) - 블록체인에 은행 만들기](https://medium.com/@soonhyungjung/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%84%EC%95%BD-3-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%9D%80%ED%96%89-%EB%A7%8C%EB%93%A4%EA%B8%B0-44a9d58d687a), 철학자(philosopher)
   * 2016,  [블록체인 공부자료 v0.9](https://medium.com/@soonhyungjung/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B3%B5%EB%B6%80-%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC%EC%99%80-%EC%88%9C%EC%84%9C-5c390b5323fa), 철학자(philosopher)
   * 2017,  [변장한 늑대 - 스마트하지 못한 스마트 계약](https://medium.com/@soonhyungjung/%EB%B3%80%EC%9E%A5%ED%95%9C-%EB%8A%91%EB%8C%80-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%84%EC%95%BD-c1a8b09f59ef), 철학자(philosopher)
-  * [블로그](https://medium.com/@kevin.j), [페이스북](https://www.facebook.com/soonhyung.jung.5)
+  * 2016 ~ [블로그](https://medium.com/@kevin.j), [페이스북](https://www.facebook.com/soonhyung.jung.5)
 
 * 인터뷰, 보도자료
   * 2017,  [Keepit 블록체이너 인터뷰 : 온더 대표 정순형님 1부](https://steemit.com/kr/@keepit/mjghs-keepit-1), 블록체인 저널 Keepit
