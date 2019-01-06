@@ -411,9 +411,9 @@
   * [윈도우즈 용(onther.io계정필요)](https://drive.google.com/drive/u/0/folders/0B5sY8bbGT-SNODRTaGlYRFVmcUk)
   * [Mac 용(onther.io계정필요)](https://drive.google.com/drive/u/0/folders/1XrxT6Zv2BwdIubb8Sb_GauILzdjSMyFS)
 * 장비 대여
-  * 온더에서 보유 중인 장비와 비품은 현황은 [비품 관리 대장(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1ZcvCpD0_OZ-McGXwdTBODaRLX5bX2c9ksZCykECMWOY/edit#gid=103781353)에서 확인가능하다. 유휴 비품(모니터,서버,PC,허브,각종 전산장비 등 포함)은 모두 대여 가능하다. 
+  * "온더"에서 보유 중인 장비와 비품 현황은 [비품 관리 대장(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1ZcvCpD0_OZ-McGXwdTBODaRLX5bX2c9ksZCykECMWOY/edit#gid=103781353)에서 확인 가능하다. 유휴 비품(모니터,서버,PC,허브,각종 전산장비 등 포함)은 모두 대여 가능하다.
   * 휴대용 무선 WAN 대여는 담당자에게 직접 요청한다. [휴대용 무선 WAN 사용 설명서(onther.io계정필요) ](https://drive.google.com/drive/u/0/folders/0B5sY8bbGT-SNbTRaOWpHdGltUEk) 참조
-  * 대여한 장비에 대해서 파손될 경우, [파손대장(onther.io계정필요)](https://docs.google.com/spreadsheets/d/10Y7kWw326F0CLo7TjEgYvAvywUmO8Kf9ySqU6q6fUok/edit#gid=59778221)을 작성하여 담당자에게 전달한다.
-* 온더 도서관
+  * 대여한 장비에 대해 파손될 경우, [파손대장(onther.io계정필요)](https://docs.google.com/spreadsheets/d/10Y7kWw326F0CLo7TjEgYvAvywUmO8Kf9ySqU6q6fUok/edit#gid=59778221)을 작성하여 담당자에게 전달한다.
+* 온더 책방
   * [도서관리 목록(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1KsCAVn52C-RN7nCKqndH6yxEOj4_HDU0nhsB_b0c6vQ/edit#gid=1149572689)를 통해 도서를 대여할 수 있다.
-  * [도서 구매 요청(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1MUgalmeITXLqCajZKCboJePbzx8xPrZkJOdUNDh8w0I/edit#gid=448902545)을 작성후, 담당자에게 전달한다.
+  * [도서 구매 요청(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1MUgalmeITXLqCajZKCboJePbzx8xPrZkJOdUNDh8w0I/edit#gid=448902545)을 이 필요한 경우, 구매 요청 목록을 작성하여 담당자에게 전달한다.
