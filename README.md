@@ -56,7 +56,7 @@
 
 
 <!-- 왼쪽정렬 -->
-<!-- ![onther_logo](https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png) -->
+![onther_logo](https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png)
 
 <!-- 오른쪽 정렬 -->
-<img align="right" src="https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png">
+<!-- <img align="right" src="https://github.com/Onther-Tech/handbook/blob/master/Business/onther_logo%20.png"> -->
