@@ -8,6 +8,8 @@
 * Medium : https://medium.com/onther-tech
 * Facebook : https://www.facebook.com/OntherInc
 * Youtube : https://www.youtube.com/c/OntherInc
-* Linkedin: https://www.linkedin.com/company/onther-tech/
 * Telegram : https://t.me/onther_blockchain (@onther_blockchain)
+* Linkedin: https://www.linkedin.com/company/onther-tech/
 * E-mail : info@onther.io
+<!-- * Onther Publications: https://github.com/Onther-Tech/publications -->
+<!-- * Onther Handbook: https://github.com/Onther-Tech/handbook -->
