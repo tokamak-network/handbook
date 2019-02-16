@@ -54,13 +54,13 @@
    1. [휴가 캘린더(onther.io계정필요)](https://calendar.google.com/calendar?cid=b250aGVyLmlvX2pydW0wbWUyc2kzODA0NmdkcG1kMGl2OHJvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)에 본인 이름을 적어 휴가를 기록한다. ex. Zoe 휴가 or Zoe 반차
    2. 휴가를 원하는 사람은 언제든 팀장에게 이야기한다. (슬랙 DM, 이메일 등)
     * 슬랙의 상태메시지를 수정한다. 수정할 때 예제의 양식을 꼭 지킨다 ex. YYYY-MM-DD ~ YYYY-MM-DD 휴가입니다.
-   3. 슬랙 #notice 채널에 본인의 휴가일을 알린다
+   3. 슬랙 #notice 채널에 본인의 휴가일을 알린다.
    4. 휴가를 미리 계획했다면 [온더 휴가 캘린더(onther.io계정필요)](https://calendar.google.com/calendar?cid=b250aGVyLmlvX2pydW0wbWUyc2kzODA0NmdkcG1kMGl2OHJvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)와 [휴가 관리 대장(onther.io계정필요)](https://docs.google.com/spreadsheets/d/1l05I8PdeW-8LmS-yWoCQg48vT78NEgBlfCTiEkMqx_Y/edit#gid=1684620092)에 기록한다.
 8. 가장 바람직한 것은, [주간회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%A3%BC%EA%B0%84%ED%9A%8C%EC%9D%98) 혹은 [일일회의](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%9D%BC%EC%9D%BC%ED%9A%8C%EC%9D%98)의 어젠더를 이용해 본인의 휴가를 알리는 것이다.
 9. 예비군, 선거일 등도 동일하다.
-    * 연가는 사라지지 않는다. 증명서를 사진찍어서 드라이브에 올린 후 캘린더 메모에 남긴다
+    * 연가는 사라지지 않는다. 증명서를 사진찍어서 드라이브에 올린 후 캘린더 메모에 남긴다.
 10. 일간/주간/월간회의 불참할 경우
-    1. 휴가 이전에 슬랙 #회의채널에 __'미리'__ 작성하여 공유한다.
+    1. 휴가 이전에 슬랙 #회의채널에 __"미리"__ 작성하여 공유한다.
     2. 일간/주간/월간회의 [녹화](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EB%85%B9%ED%99%94) 또는 회의채널을 직접 확인한다.
       * 우리는 팀콜을 이용해 공지사항을 전달하거나, 프로세스를 수정할 때 사용하기 때문에 원활한 커뮤니케이션을 위해 확인이 필요하다.
 
