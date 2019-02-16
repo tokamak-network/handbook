@@ -160,8 +160,24 @@
      * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
 
    3. 고-이더리움([go-ethereum](https://github.com/ethereum/go-ethereum)) 코어 까보기
-      * [4000d의 go-ethereum 코어 분석자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE/edit?usp=sharing)
-      * 주요 로직과 라이브러리를 분석/분해하고 필요한 기능을 하나씩 넣어봄 ex) gas fee를 수정해본다던지
+      * [4000d의 go-ethereum 코어 패키지 리스팅자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE)
+        * [go-ethereum 분석 1 - Carl(4000d)](https://drive.google.com/open?id=1gDCJEYr_xyxRpftQh_ZxVixoNtsxebKTr_TUBkO7CH8)
+        * [go-ethereum 분석 2 - Carl(4000d)](https://docs.google.com/presentation/d/1pTVHwC63HrIkLjD8s7z0OcdUv-HGGGQpqUR4Kocxg_w)
+      * 주요 패키지(라이브러리) 파트별 분석
+        * [geth 실행 로직 - Aiden](https://docs.google.com/presentation/d/1io_gKpVOOg8UCSd-tQqKQJ4hLo3crRicU1bMZpRJ3jg)
+        * [go-ethereum 씹어먹기 #0 : Package Overview - Aiden](https://docs.google.com/presentation/d/1hD5Q1B9J1BXBh5WvnpNgccQR2CKK7p-eQe2NPR9wO4s)
+        * [go-ethereum 씹어먹기 #1 : Node - Aiden](https://docs.google.com/presentation/d/1XJrLDnx_7fzy8xsxJev-OZpfGCXD6gr4dd5cENuzKOk)
+        * [go-ethereum 씹어먹기 #2 : Mining & P2p - Aiden](https://docs.google.com/presentation/d/1eKrgv1YotLCM1bD4_BOgWibP3a4t8Uz2mWAFdSyMkYY)
+        * [Geth Package 분석 : state, trie, internal/ethapi, rawdb, ethdb - Jason](https://docs.google.com/presentation/d/1_9TZJEB--JmaU4T78If_vwvNcKls2vBUVnXqZqkUylQ)
+        * [Geth Package 분석 : cmd/geth - Thomas](https://drive.google.com/open?id=1WFaWG3DRrKES6YrhFyLIvumn8PuLarmw55jek_8vzuo)
+        * [Geth Package 분석 : /eth, /core, /core/vm - Thomas](https://docs.google.com/presentation/d/1UE4mMz7395pZmVOhFecnNv33AN0sGaNsmyr0hB2uNDs)
+        * [Geth Package 분석 : /miner, /worker - Thomas](https://drive.google.com/open?id=1rQngQ0d6GaFMuxTCW5gZ2O12MZpqZzx9UpLcle9I6XQ)
+        * [Geth Package 분석 : p2p Layer - Thomas](https://drive.google.com/open?id=1GmdQjJoomJcaSc9vu3e4DVo9iLSow1vAqzUKtHZUAbM)
+        * [Geth Package 분석 : Txpoll -Thomas](https://drive.google.com/open?id=1MYcwJOyi_FbAVufuEu___gvTmLuGcm_7jD7MZMG0KsY)
+        * [Geth Package 분석 : params, core/vm, ethdb, trie - Jake](https://docs.google.com/presentation/d/1DUqRdXDYNWnGcJsvN3M-0Ll8BJ09ZroSYl5BCh7yMt0)
+        * [Geth Package 분석 : consensus, type, event, miner - Jake](https://docs.google.com/presentation/d/1jnhGGBV4AqVBOYJZS9ALHFV0sPKXbr3QQkGL_lvIZlg)
+        * [Geth Package 분석 : fetcher, downloader, rawdb, ethdb - Jin](https://drive.google.com/open?id=1Wtv_BoYGeM6ocA3XsP-6JINkzW1ETOSvOdKjavkJpjc)
+ 
 
    4. [플라즈마 MVP 분석](https://github.com/omisego/plasma-mvp)
       * [Deep Dive Into Plasm MVP by Kevin](https://docs.google.com/presentation/d/1gLgeA6_o1WTz7PtSrzclmx8moZ9oAxTG5ZJl8U1tgqg/edit?usp=sharing)
