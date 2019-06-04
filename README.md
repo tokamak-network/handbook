@@ -25,11 +25,11 @@
     * [사무실 이용 가이드](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%EC%82%AC%EB%AC%B4%EC%8B%A4-%EC%9D%B4%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 ## [인사](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%EC%9D%B8%EC%82%AC)
-  * [채용](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%B1%84%EC%9A%A9)
-  * [입퇴사](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%9E%85%ED%87%B4%EC%82%AC)
-  * [휴가와 쉬는것](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%ED%9C%B4%EA%B0%80%EC%99%80-%EC%89%AC%EB%8A%94%EA%B2%83)
+  * [채용](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%EC%B1%84%EC%9A%A9)
+  * [입퇴사](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%EC%9E%85%ED%87%B4%EC%82%AC)
+  * [휴가와 쉬는것](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%ED%9C%B4%EA%B0%80%EC%99%80-%EC%89%AC%EB%8A%94%EA%B2%83)
   * [성과평가](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%EC%84%B1%EA%B3%BC%ED%8F%89%EA%B0%80)
-  * [인센티브](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C)
+  * [인센티브](https://github.com/Onther-Tech/handbook/blob/master/HR/HUMAN.md#%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C)
   <!-- * [공금사용](https://github.com/Onther-Tech/handbook/blob/master/human/HUMAN.md#%EA%B3%B5%EA%B8%88%EC%82%AC%EC%9A%A9) -->
 
 ## [엔지니어링](./engineering/ENGINEERING.md)
