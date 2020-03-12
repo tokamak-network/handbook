@@ -88,104 +88,210 @@
 
 
 ## 개발자 OJT 프로그램
+온더의 모든 개발자는 맡은 직무와 관계없이 이더리움을 포함한 블록체인 전반에 대한 기초적인 원리와 개념을 이해해야 한다. 또한, 직무에 따라 특정 주제에 대한 심화적인 이해가 반드시 필요하다. 이를 위해 온더는 새롭게 합류한 개발자 팀원에게 최고의 OJT 프로그램을 제공한다. 이에 대한 자세한 내용은 아래와 같다. 단, 본인의 경력을 이미 증명 했다면, 아래의 과정은 일부 생략될 수 있다.
 
-온더의 모든 개발자는 맡은 업무와 상관없이 (이더리움)블록체인에 대한 기초적인 원리와 개념을 이해하고 있어야 한다. 이를 위해 우리는 신입 개발자를 위한 최고의 OJT 프로그램을 가지고 있으며, 이에 대한 자세한 내용은 아래에 적혀져 있다. 다만 본인의 경력(혹은 포트폴리오)을 증명했다면, 아래의 과정은 일부가 건너 뛰어지거나 생략될 수 있다.
+* [General](#General)
+* [Bitcoin](#Bitcoin)
+* [Ethereum](#Ethereum)
+* [Research](#Research)
+* [Project-Tokamak Network](#Project-Tokamak-Network)
+* [Project-zk-DEX](#Project-zk-DEX)
 
-* [공통과정](#공통과정)
-* [스마트 컨트렉트 테크트리](#스마트-컨트렉트-테크트리)
-* [코어 테크트리](#코어-테크트리)
-* [리서쳐 테크트리](#리서쳐-테크트리)
-
-### 공통과정
-  * 듣는것
-    1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
-    2. [사업방향에 관하여(onther.io계정필요)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit?usp=sharing) : 온더가 하고자 하는 비즈니스와 해당 업의 본질
-    3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing) : 스마트 컨트렉트란 무엇이며 어떻게 세상을 바꿀 것인가?
-    4. [마이너의 이해(onther.io계정필요)](https://docs.google.com/presentation/d/1d8X4KVdYe8JnSHDYajaWCkzBiGaOKgtdbOaKjUoCdpo/edit?usp=sharing) : 마이너에 관한 일반사항, 노드에 대한 이해
-    5. [ICO Contract Development Process(onther.io계정필요)](https://docs.google.com/presentation/d/1l_QZyU9dVQb4ejYKAbtEb1ibsUrjV12dxNmbrn0GlNw/edit?usp=sharing) : ICO와 토큰 개발 과정에 대한 이해
-    6. [2018 dappchain(onther.io계정필요)](https://docs.google.com/presentation/d/1v_JqyGL9DNrnU9p8kjOZbb6_rfsnyQ-NkQiblYJ8KNo/edit?usp=sharing) : 2018년 온더의 주요 목표 및 프로젝트
-  * 직접 하는것 : 비트코인 이해 --> 이더리움 이해 순으로 진행, 혼자 공부하고 [발표자료](https://github.com/Onther-Tech/handbook/blob/master/general/WorkProcess.md#%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98) 형식으로 만들어 온라인(오프라인) 세미나를 진행, 세미나 시간은 본인이 정해 구글 캘린더에 공유한 후 슬렉 #notice 채널에 공지, 해당 시간에 누구든지 와서 듣고 묻고 답할 수 있음.
-    1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc) 정리 및 분석
-       * 2,4장 정리 후 세미나(1시간)
-       * 5,6장 정리 후 세미나(1시간)
-       * 7,8장 정리 후 세미나(1시간)
-    2. Bitcoin Hardway 블로그 정리
-       * [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html) : 읽고 이해하고 발표(1시간)
-       * [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html) : 읽고 이해하고 발표(1시간)
-    3. [비트코인 백서](https://bitcoin.org/bitcoin.pdf) : 정리 및 발표(1시간)
-    4. [이더리움 백서](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper) : 읽고 정리 및 발표(1시간)
-    5. [이더리움 베이지 페이퍼](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf) : 읽고 정리 및 발표(1시간)
-       * [RLP씹어먹기](https://docs.google.com/presentation/d/1nSoRv4hCmona_N1VENZdZ_POVV-LZpxOSNBntareZuA/edit?usp=sharing)
-       * [머클과 머클 패트리샤 트리](https://docs.google.com/presentation/d/1J8vbpvo7E8B0-h9uHsm7Sp94g3CA2VjjvTIqVNucwyg/edit?usp=sharing)
-    6. [이더리움 황서](http://gavwood.com/paper.pdf) : 읽고 정리 및 발표(3시간)
-       * 황서를 봐야 하는 이유?
-       * mathematical notation : 노테이션을 알고 나면 추가적인 알고리즘 / 개념 이해는 더욱 빠르고 정확하게 가능
-       * [gitter](https://gitter.im/ethereum/yellowpaper)를 통한 질의응답 가능
-       * 빠른 업데이트 : zk-SNARK verification 이 비잔티움 포크 후 precompile contract으로 추가 될 예정
-       * public review
+대부분의 주제는 자기 주도 학습으로 진행되며, 학습의 결과는 세미나, 원페이퍼, 테스트, 미니프로젝트 등으로 팀원과 함께 공유한다. OJT의 목적은 배움과 성장으로, 평가의 목적이 아니다. 따라서 공유한 학습의 결과물을 바탕으로 업무능력에 대한 어떠한 평가도 하지 않는다. 또한, 각 학습주제별로 특정 학습 결과물 공유 방식이 권장되지만, 반드시 이를 따르지 않아도 된다.
 
 
-### 스마트 컨트렉트 테크트리
-  1. Udemy 강의 : [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) 완강, 24시간 소요
-  2. [트러플 쓰기](https://docs.google.com/presentation/d/1ONHk1ZwNXPe9650Nivv9xaNdN9ec45X22D136RyLAME/edit?usp=sharing)
-  3. [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity) 공부 및 정리
-  4. [Minime Token](https://github.com/Giveth/minime) 공부 및 정리
-     [Minime Token by Thoms.s](https://docs.google.com/presentation/d/1BFGDuX1nM_H8u-v6INLmEWFa5wmRpXx5prYqvl4R1_E/edit?usp=sharing)
-  5. 오디팅(auditing)
-     * [제플린의 오딧 블로그](https://blog.zeppelin.solutions/tagged/security) 내용 정리
-     * [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-     * [Auditing Smart Contract by 4000D](https://docs.google.com/presentation/d/1I5JjEVCFsD6UbKOLERQ8pOTsF2fEsnj5RBcDKU_aozc/edit?usp=sharing)
-     * [실제 오딧 보고서(onther.io계정 필요)](https://docs.google.com/document/d/1aCZ2MowRnpd_GZ-pH0jIS7IQ5ZJXiGKgYxReCDtk1Fc/edit?usp=sharing) 분석
-  6. 탈중앙화된 스마트 컨트렉트 설계(개발 윤리)
-     * [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)
-     * [DAICO](https://docs.google.com/presentation/d/1vcFjuHobwt2Q7A_wQOTUakkujWqh-8lGGsFBoARCusk/edit?usp=sharing)
+### 학습 결과물 공유
+세미나는 학습한 내용을 슬라이드 등으로 정리하여 발표하는 것을 의미한다. 원페이퍼는 어떠한 형태로든 자신이 공부한 내용을 스스로 정리하여 문서화하는 것을 의미한다. 반드시 하나의 페이퍼에 정리되어야 할 필요는 없다. 테스트는 온더 내부에서 작성된 테스트 문항을 통해 진행된다. 테스트 결과는 어떠한 형태로든 평가의 수단으로 사용 되지 않는다. 미니프로젝트는 특정 주제에 한하여 실제 진행되고 있는 업무와 비슷한 성격을 가진 단순한 프로젝트를 짧은 기간 동안 수행하는 것을 의미한다.
 
-### 코어 테크트리
 
-  1. 비트코인 코어
-     * [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)
-     * [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)
-     * [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)
 
-  2. 파이더리움([pyethereum](https://github.com/ethereum/pyethereum))으로 이더리움 코어 까보기
-     * [키와 어카운트 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/tools/keys.py)
-     * [EVM 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py)
-     * [블록 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/block.py)
-     * [메세지와 reciept](https://github.com/ethereum/pyethereum/blob/develop/ethereum/messages.py)
-     * [state 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/state.py)
-     * [Transaction 까보기](https://github.com/ethereum/pyethereum/blob/develop/ethereum/transactions.py)
-     * [옵코드의 종류와 가스테이블](https://github.com/ethereum/pyethereum/blob/develop/ethereum/opcodes.py)
-     * [머클 패트리샤 트리](https://github.com/ethereum/pyethereum/blob/develop/ethereum/trie.py)
-     * [PoW와 체인](https://github.com/ethereum/pyethereum/tree/develop/ethereum/pow)
-     * [precompile 함수](https://github.com/ethereum/pyethereum/blob/develop/ethereum/specials.py)
 
-   3. 고-이더리움([go-ethereum](https://github.com/ethereum/go-ethereum)) 코어 까보기
-      * [4000d의 go-ethereum 코어 패키지 리스팅자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE)
-        * [go-ethereum 분석 1 - Carl(4000d)](https://drive.google.com/open?id=1gDCJEYr_xyxRpftQh_ZxVixoNtsxebKTr_TUBkO7CH8)
-        * [go-ethereum 분석 2 - Carl(4000d)](https://docs.google.com/presentation/d/1pTVHwC63HrIkLjD8s7z0OcdUv-HGGGQpqUR4Kocxg_w)
-      * 주요 패키지(라이브러리) 파트별 분석
-        * [geth 실행 로직 - Aiden](https://docs.google.com/presentation/d/1io_gKpVOOg8UCSd-tQqKQJ4hLo3crRicU1bMZpRJ3jg)
-        * [go-ethereum 씹어먹기 #0 : Package Overview - Aiden](https://docs.google.com/presentation/d/1hD5Q1B9J1BXBh5WvnpNgccQR2CKK7p-eQe2NPR9wO4s)
-        * [go-ethereum 씹어먹기 #1 : Node - Aiden](https://docs.google.com/presentation/d/1XJrLDnx_7fzy8xsxJev-OZpfGCXD6gr4dd5cENuzKOk)
-        * [go-ethereum 씹어먹기 #2 : Mining & P2p - Aiden](https://docs.google.com/presentation/d/1eKrgv1YotLCM1bD4_BOgWibP3a4t8Uz2mWAFdSyMkYY)
-        * [Geth Package 분석 : state, trie, internal/ethapi, rawdb, ethdb - Jason](https://docs.google.com/presentation/d/1_9TZJEB--JmaU4T78If_vwvNcKls2vBUVnXqZqkUylQ)
-        * [Geth Package 분석 : cmd/geth - Thomas](https://drive.google.com/open?id=1WFaWG3DRrKES6YrhFyLIvumn8PuLarmw55jek_8vzuo)
-        * [Geth Package 분석 : /eth, /core, /core/vm - Thomas](https://docs.google.com/presentation/d/1UE4mMz7395pZmVOhFecnNv33AN0sGaNsmyr0hB2uNDs)
-        * [Geth Package 분석 : /miner, /worker - Thomas](https://drive.google.com/open?id=1rQngQ0d6GaFMuxTCW5gZ2O12MZpqZzx9UpLcle9I6XQ)
-        * [Geth Package 분석 : p2p Layer - Thomas](https://drive.google.com/open?id=1GmdQjJoomJcaSc9vu3e4DVo9iLSow1vAqzUKtHZUAbM)
-        * [Geth Package 분석 : Txpoll -Thomas](https://drive.google.com/open?id=1MYcwJOyi_FbAVufuEu___gvTmLuGcm_7jD7MZMG0KsY)
-        * [Geth Package 분석 : params, core/vm, ethdb, trie - Jake](https://docs.google.com/presentation/d/1DUqRdXDYNWnGcJsvN3M-0Ll8BJ09ZroSYl5BCh7yMt0)
-        * [Geth Package 분석 : consensus, type, event, miner - Jake](https://docs.google.com/presentation/d/1jnhGGBV4AqVBOYJZS9ALHFV0sPKXbr3QQkGL_lvIZlg)
-        * [Geth Package 분석 : fetcher, downloader, rawdb, ethdb - Jin](https://drive.google.com/open?id=1Wtv_BoYGeM6ocA3XsP-6JINkzW1ETOSvOdKjavkJpjc)
- 
+### General
 
-   4. [플라즈마 MVP 분석](https://github.com/omisego/plasma-mvp)
-      * [Deep Dive Into Plasm MVP by Kevin](https://docs.google.com/presentation/d/1gLgeA6_o1WTz7PtSrzclmx8moZ9oAxTG5ZJl8U1tgqg/edit?usp=sharing)
+General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으로, 내부 팀원이 직접 소개한다.
 
-### 리서쳐 테크트리
-  * [ERC20 시총 상위 100개 코인](https://etherscan.io/tokens)의 ICO모델, 비즈니스모델, 컨트렉트 코드 및 라이브러리를 순서대로 정리
-  * [Ethereum Casper의 이해](https://docs.google.com/presentation/d/1Kidwr3VsP8C1wA2a8Pzxtuess-lnLSNx5CMqN1sE3SU/edit?usp=sharing)
-  * [Whisper 프로토콜](https://docs.google.com/presentation/d/1zA9_66ywegS3Jl_brus9sfjcElqVzQT1qvYPhyJKsJY/edit?usp=sharing)
+#### Introduction
+
+1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
+2. [Ignite(30 min)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit#slide=id.g78e1bb24ee_0_6): 온더가 하고자 하는 비즈니스와 해당 업의 본질
+3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing) : 스마트 컨트렉트란 무엇이며 어떻게 세상을 바꿀 것인가?
+
+#### Blockchain
+
+- [탈중앙화 의의와 함의(30min)](https://docs.google.com/presentation/d/1kNQxJgbaTSx93R3owcYAtdQZnx3IBEiU8HfXmUlsDQc/edit?usp=sharing)
+- [퍼블릭 블록체인 vs 프라이빗 블록체인(30min) —> 탈중앙화의 레벨, 수준, 정도](https://docs.google.com/presentation/d/1bQiA_cObRb_ZfsBiuxagE5McRO9RDPMz2cs-2jOq0xM/edit?usp=sharing)
+- [엔터프라이즈 이더리움의 토카막 네트워크(20min) —> BM](https://docs.google.com/presentation/d/1Hkw_PC0AvpjC-_XHQL5GOdhkJUgLOKGRn6DkXZ-w6ao/edit?usp=sharing)
+- [블록체인 기업의 핵심 역량](https://medium.com/onther-tech/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%97%AD%EB%9F%89-3210cf8651eb)
+
+
+### Bitcoin
+
+**Why study?**
+비트코인은 모든 블록체인들의 출발점으로 블록체인의 가장 핵심적이고 기본적인 원리만을 단순화하여 배울 수 있는 가장 좋은 재료이다.
+
+
+#### Bitcoin
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)   |  Basic |  seminar, one-paper, test  |    |
+|  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)   |  Basic |  seminar, one-paper  |    |
+|  [블록체인 기반기술의 이해 1편](https://youtu.be/yoAAZcXPx7k)   |  Basic |  one-paper, test  |    |
+|  [블록체인 기반기술의 이해 2편](https://youtu.be/Ix-4Ul37WWE)   |  Basic |  one-paper, test  |    |
+|  [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)   |  Advanced |  seminar, one-paper, test  |    |
+|  [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)   |  Advanced |  seminar, one-paper, test  |    |
+
+
+#### Bitcoin Core
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)   |  Advanced |  one-paper, test  |    |
+|  [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)   |  Advanced |  one-paper, test  |    |
+|  [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)   |  Advanced |  one-paper, test  |    |
+
+
+### Ethereum
+
+#### Ethereum-General
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)   |  Basic |  seminar, one-paper, test  |    |
+|  [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper)   |  Basic |  seminar, one-paper  |    |
+|  [Ethereum Yellowpaper](http://gavwood.com/paper.pdf)   |  Advanced |  seminar, one-paper, test  |    |
+|  [RLP씹어먹기](https://docs.google.com/presentation/d/1nSoRv4hCmona_N1VENZdZ_POVV-LZpxOSNBntareZuA/edit?usp=sharing)   |  Advanced |  seminar, one-paper, test  |    |
+|  [머클과 머클 패트리샤 트리](https://docs.google.com/presentation/d/1J8vbpvo7E8B0-h9uHsm7Sp94g3CA2VjjvTIqVNucwyg/edit?usp=sharing)   |  Advanced |  seminar, one-paper, test  |    |
+
+
+
+
+#### Ethereum-Smart Contract
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)   |  Basic |  one-paper  |    |
+|  [Truffle](https://docs.google.com/presentation/d/1ONHk1ZwNXPe9650Nivv9xaNdN9ec45X22D136RyLAME/edit?usp=sharing)   |  Basic |  one-paper  |    |
+|  [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)   |  Basic |  seminar, one-paper  |    |
+|  [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)   |  Basic |  one-paper  |    |
+|  [변장한 늑대](https://medium.com/onther-tech/%EB%B3%80%EC%9E%A5%ED%95%9C-%EB%8A%91%EB%8C%80-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%84%EC%95%BD-45ece882e2b3)   |  Basic |  one-paper  |    |
+|  [DAICO](https://docs.google.com/presentation/d/1vcFjuHobwt2Q7A_wQOTUakkujWqh-8lGGsFBoARCusk/edit?usp=sharing)   |  Basic |  one-paper  |    |
+|  [Minime Token](https://github.com/Giveth/minime)   |  Advanced |  one-paper  |  [Minime Token by Thoms.s](https://docs.google.com/presentation/d/1BFGDuX1nM_H8u-v6INLmEWFa5wmRpXx5prYqvl4R1_E/edit?usp=sharing)  |
+|  [Zeppline Audit Blog](https://blog.zeppelin.solutions/tagged/security)   |  Advanced |  seminar, one-paper  |    |
+|  [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)   |  Advanced |  seminar, one-paper  |    |
+|  [Auditing Smart Contract by 4000D](https://docs.google.com/presentation/d/1I5JjEVCFsD6UbKOLERQ8pOTsF2fEsnj5RBcDKU_aozc/edit?usp=sharing)   |  Advanced |  one-paper  |    |
+|  [실제 오딧 보고서(onther.io계정 필요)](https://docs.google.com/document/d/1aCZ2MowRnpd_GZ-pH0jIS7IQ5ZJXiGKgYxReCDtk1Fc/edit?usp=sharing)   |  Advanced |  one-paper  |    |
+
+
+
+
+#### Ethereum - Client
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [A Tour of Go](https://tour.golang.org/welcome/1)   |  Basic |  one-paper  |    |
+|  [JSON RPC](https://infura.io/docs)([Alt1](https://github.com/ethereum/wiki/wiki/JSON-RPC), [Alt2](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console))   |  Basic |  seminar, mini-project  |  [Implementation1](https://github.com/ethereum/go-ethereum/blob/d90d1db609c8d77baa422d49bd371207c06b4711/internal/ethapi/backend.go) [Implementation2](https://github.com/ethereum/go-ethereum/blob/38d1b0cba277db17129a4870158115c5a428cffc/eth/backend.go) |
+|  [4000d의 go-ethereum 코어 패키지 리스팅자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE)   |  Advanced |  seminar, one-paper  |    |
+|  [go-ethereum 분석 1 - Carl(4000d)](https://drive.google.com/open?id=1gDCJEYr_xyxRpftQh_ZxVixoNtsxebKTr_TUBkO7CH8)   |  Advanced |  seminar, one-paper  |    |
+|  [go-ethereum 분석 2 - Carl(4000d)](https://docs.google.com/presentation/d/1pTVHwC63HrIkLjD8s7z0OcdUv-HGGGQpqUR4Kocxg_w)   |  Advanced |  seminar, one-paper  |    |
+|  [geth 실행 로직 - Aiden](https://docs.google.com/presentation/d/1io_gKpVOOg8UCSd-tQqKQJ4hLo3crRicU1bMZpRJ3jg)   |  Advanced |  seminar, one-paper  |    |
+|  [go-ethereum 씹어먹기 #0 : Package Overview - Aiden](https://docs.google.com/presentation/d/1hD5Q1B9J1BXBh5WvnpNgccQR2CKK7p-eQe2NPR9wO4s)   |  Advanced |  seminar, one-paper  |    |
+|  [go-ethereum 씹어먹기 #1 : Node - Aiden](https://docs.google.com/presentation/d/1XJrLDnx_7fzy8xsxJev-OZpfGCXD6gr4dd5cENuzKOk)   |  Advanced |  seminar, one-paper  |    |
+|  [go-ethereum 씹어먹기 #2 : Mining & P2p - Aiden](https://docs.google.com/presentation/d/1eKrgv1YotLCM1bD4_BOgWibP3a4t8Uz2mWAFdSyMkYY)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : state, trie, internal/ethapi, rawdb, ethdb - Jason](https://docs.google.com/presentation/d/1_9TZJEB--JmaU4T78If_vwvNcKls2vBUVnXqZqkUylQ)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : cmd/geth - Thomas](https://drive.google.com/open?id=1WFaWG3DRrKES6YrhFyLIvumn8PuLarmw55jek_8vzuo)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : /eth, /core, /core/vm - Thomas](https://docs.google.com/presentation/d/1UE4mMz7395pZmVOhFecnNv33AN0sGaNsmyr0hB2uNDs)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : /miner, /worker - Thomas](https://drive.google.com/open?id=1rQngQ0d6GaFMuxTCW5gZ2O12MZpqZzx9UpLcle9I6XQ)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : p2p Layer - Thomas](https://drive.google.com/open?id=1GmdQjJoomJcaSc9vu3e4DVo9iLSow1vAqzUKtHZUAbM)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : Txpool - Thomas](https://drive.google.com/open?id=1MYcwJOyi_FbAVufuEu___gvTmLuGcm_7jD7MZMG0KsY)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : params, core/vm, ethdb, trie - Jake](https://docs.google.com/presentation/d/1DUqRdXDYNWnGcJsvN3M-0Ll8BJ09ZroSYl5BCh7yMt0)   |  Advanced |  seminar, one-paper  |    |
+|  [Geth Package 분석 : fetcher, downloader, rawdb, ethdb - Jin](https://drive.google.com/open?id=1Wtv_BoYGeM6ocA3XsP-6JINkzW1ETOSvOdKjavkJpjc)   |  Advanced |  seminar, one-paper  |    |
+
+
+
+### Research
+
+
+#### Layer-2(Plasma)
+
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [Plasma 가볍게 훑어보기](http://blog.onther.io/ethereum/scalability/plasma/plasma-general/)   |  Basic |  one-paper  |    |
+|  [Plasma 101 : Let’s Scale with Cryptoeconomics](https://medium.com/onther-tech/plasma-101-lets-scale-with-cryptoeconomics-ee0c9fac4989)   |  Basic |  one-paper  |    |
+|  [Plasma 102 : Detail Structure and Use Cases](https://medium.com/onther-tech/plasma-102-detail-structure-and-use-cases-914507781bd4)   |  Basic |  one-paper  |    |
+|  [State Channel Basic](http://blog.onther.io/ethereum/scalability/statechannel/state-channel-basic/)   |  Basic |  one-paper  |    |
+|  [Plasma Whitepaper](https://www.plasma.io/plasma.pdf)   |  Advanced |  one-paper  |    |
+|  [Deep Dive Into Plasma MVP](http://blog.onther.io/ethereum/scalability/plasma/Deep-Dive-Into-Plasma-MVP/)   |  Advanced |  one-paper  |    |
+|  [Plasma ERC721 implementation (Loomnetwork)](https://medium.com/onther-tech/plasma-erc721-implementation-loomnetwork-9f8ec59bb25b)   |  Advanced |  one-paper  |    |
+|  [Data Availability problem in implementing Plasma design](https://medium.com/onther-tech/data-availability-problem-in-implementing-plasma-design-6e23df1a147f)   |  Advanced |  one-paper  |    |
+|  [일반상태(튜링완전) 플라즈마 관련 연구 분석](http://blog.onther.io/ethereum/scalability/plasma/analysis-of-general-state-plasma-models/)   |  Advanced |  one-paper  |    |
+|  [Plasma World Map](http://blog.onther.io/ethereum/scalability/plasma/Plasma-World-Map/)   |  Advanced |  one-paper  |    |
+|  [Zero Knowledge Proof and Plasma](http://blog.onther.io/ethereum/scalability/zkp/Zero-Knowledge-Proof-and-Plasma/)   |  Advanced |  one-paper  |    |
+
+
+
+
+
+#### Ethereum 2.0
+
+
+|Topics|Difficulty|Tags|Remarks|
+|---|---|---|---|
+|  [ETH 2.0 Explained: Phase 0](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-phase-0-1%ED%8E%B8-74ee5659a40a)   |  Advanced |  one-paper  |    |
+|  [Cross Shard Communication -1- 비동기 커뮤니케이션](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-cross-shard-communication-async-2%ED%8E%B8-ac78e921e8a4)   |  Advanced |  one-paper  |    |
+|  [Cross Shard Communication -2- 동기 커뮤니케이션](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-cross-shard-communication-sync-3%ED%8E%B8-cbff047e8f0d)   |  Advanced |  one-paper  |    |
+|  [CBC casper explained (1/2)](https://medium.com/onther-tech/cbc-casper-explained-1-2-59fe82a00769)   |  Advanced |  one-paper  |    |
+|  [CBC casper explained (2/2)](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-cbc-casper-explained-2-2-5%ED%8E%B8-458bc3eb24f1)   |  Advanced |  one-paper  |    |
+|  [ETH 2.0 Explained: Phase 1](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-phase-1-6%ED%8E%B8-cf65c5c0b924)   |  Advanced |  one-paper  |    |
+|  [스태이트리스 클라이언트(Stateless Client)](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8A%A4%ED%83%9C%EC%9D%B4%ED%8A%B8%EB%A6%AC%EC%8A%A4-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-stateless-client-7%ED%8E%B8-b2e96d9f071b)   |  Advanced |  one-paper  |    |
+|  [ETH 2.0 Explained: Phase 2](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-phase-2-8%ED%8E%B8-b9efc2dfe9e)   |  Advanced |  one-paper  |    |
+|  [Execution Environment](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-execution-environment-9%ED%8E%B8-17ff1ead2f9f)   |  Advanced |  one-paper  |    |
+|  [Ethereum 2.0 - Randomness](http://blog.onther.io/ethereum/scalability/ethereum2.0/Ethereum-2.0-Randomness/)   |  Advanced |  one-paper  |    |
+
+
+
+
+### Project-Tokamak Network
+Tokamak Network와 zk-DEX는 온더의 주요 프로젝트로 아래의 모든 내용들에 대해 완벽하게 숙지해야 한다. 각자의 직무에 따라 관련 주제별로 미니프로젝트를 진행할 수 있다.
+
+
+### Intro
+- [Tokamak Network : Turing Complete Plasma Chain](https://youtu.be/T8DmzygngQA)
+- Plasma EVM for dummies: [slide](https://docs.google.com/presentation/d/1zcNkME2jpMtKJsIER5CUiRtEsfnejol6snfcfzlhRW8/edit?usp=sharing), [video](https://youtu.be/qWovBjf5wXI)
+- [Plasma EVM Basic(by Carl Park)](https://docs.google.com/presentation/d/14MAgkUFH_lq9Q_X-gXh61GbJatfdfHqc3R45480F-K0/edit?usp=sharing)
+
+### Deep Dive
+- [Whitepaper](https://github.com/Onther-Tech/papers/blob/master/docs/Tokamak_Whitepaper2(200221).pdf)
+- [Techpaper](https://github.com/Onther-Tech/papers/blob/master/docs/tech-paper-kr.pdf)
+- [Documentation](https://docs.tokamak.network/)
+
+**Economics**
+- Economic Description of Tokamak Network: [Slide](https://docs.google.com/presentation/d/1uG12SYjcPWVCE9JvHBYjMbk5P80KO7CzLt_rkE4h2RM/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=gW7FCiBgBI4&t=2s)
+- 토카막 네트워크 이코노믹 페이퍼 : [https://hackmd.io/@dwmnux6AQZWPyG-VSBXm1Q/rJgPxWYTm?type=view](https://hackmd.io/@dwmnux6AQZWPyG-VSBXm1Q/rJgPxWYTm?type=view)
+
+**Comparison with Other Layer-2 Solutions**
+- [Plasma vs Rollup vs Sidechain Comparison Memo(60 min)](https://www.notion.so/onther/Plasma-vs-optimistic-zk-Roll-up-5017e5f6044d45b49157d8351c27de88)
+
+**Data availability**
+- [(온더콘2)Data availability solution in plasma for global state - Continuous Rebase](http://blog.onther.io/ethereum/scalability/plasma/plsmaevm/DA-solution-continuous-rebase/)
+
+**Computation Challenge**
+- [춤추는 철학자의 문제](https://medium.com/onther-tech/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EA%B2%80%EC%A6%9D-%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%9A%A9%EC%84%B1-dancing-philosophers-problem-verification-game-sidechain-fa2b5e1e0ca3)
+- [Let’s play with Truebit(scrypt interactive game)](http://blog.onther.io/ethereum/scalability/Let's-play-with-Truebit/)
+
+**Requestable Contracts**
+- [(온더콘2)Examples and Best Practices for Requestable Contracts](http://blog.onther.io/ethereum/scalability/plasma/plsmaevm/Examples-and-Best-Practices-for-Requestable-Contracts/)
+
+
+
+
+### Project-zk-DEX
+
+- [프라이버시를 보장하는 스테이블 코인 zk-DAI 깊게 살펴보기](http://blog.onther.io/ethereum/scalability/zkp/zk-dai-deep-dive/)
+- [영지식 증명을 활용한 프라이버시 토큰(zk-ERC20) 구현](http://blog.onther.io/ethereum/scalability/zkp/zk-erc20/)
+
+### Deep Dive
+- [zk-DEX paper](https://github.com/Onther-Tech/papers/blob/master/docs/zk_DEX.pdf)
+- [zk-DEX slide](https://docs.google.com/presentation/d/10B62tisUkyhA5VvkpDQg8D8Z9NV0WYxZne2RgE-lVOk/edit#slide=id.g5d3ffe1c9f_6_525)
+
+
+
+
 
 ## 스마트 컨트렉트 개발팀
 
