@@ -112,6 +112,25 @@
 
 
 
+
+### General
+
+General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으로, 내부 팀원이 직접 소개한다.
+
+#### Introduction
+
+1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
+2. [Ignite(30 min)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit#slide=id.g78e1bb24ee_0_6): 온더가 하고자 하는 비즈니스와 해당 업의 본질
+3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing) : 스마트 컨트렉트란 무엇이며 어떻게 세상을 바꿀 것인가?
+
+#### Blockchain
+
+- [탈중앙화 의의와 함의(30min)](https://docs.google.com/presentation/d/1kNQxJgbaTSx93R3owcYAtdQZnx3IBEiU8HfXmUlsDQc/edit?usp=sharing)
+- [퍼블릭 블록체인 vs 프라이빗 블록체인(30min) —> 탈중앙화의 레벨, 수준, 정도](https://docs.google.com/presentation/d/1bQiA_cObRb_ZfsBiuxagE5McRO9RDPMz2cs-2jOq0xM/edit?usp=sharing)
+- [엔터프라이즈 이더리움의 토카막 네트워크(20min) —> BM](https://docs.google.com/presentation/d/1Hkw_PC0AvpjC-_XHQL5GOdhkJUgLOKGRn6DkXZ-w6ao/edit?usp=sharing)
+- [블록체인 기업의 핵심 역량](https://medium.com/onther-tech/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%97%AD%EB%9F%89-3210cf8651eb)
+
+
 ### Programming General
 
 
@@ -152,24 +171,6 @@
 |  [git, git-flow](https://git-scm.com/doc), [github](https://guides.github.com/)  |  all |  one-paper  |    |
 |  [aws](https://docs.aws.amazon.com/)  |  all |  one-paper  |    |
 
-
-
-### General
-
-General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으로, 내부 팀원이 직접 소개한다.
-
-#### Introduction
-
-1. [온더 회사소개(onther.io계정필요)](https://drive.google.com/drive/folders/0B5sY8bbGT-SNamU4N2thOVRsT0U?usp=sharing) : 회사에 관한 일반사항, 사업분야, 진행했던 프로젝트, 대표자 이력 등
-2. [Ignite(30 min)](https://docs.google.com/presentation/d/1S3AmvyrEJOjyc6oQWiBr_qfZjR_RMCFiakeM1fbBblQ/edit#slide=id.g78e1bb24ee_0_6): 온더가 하고자 하는 비즈니스와 해당 업의 본질
-3. [Understanding Smart Contract](https://docs.google.com/presentation/d/1YSlrtG4FFYagcniBc13prmUBUOWY04XrKatIxm2OJ_4/edit?usp=sharing) : 스마트 컨트렉트란 무엇이며 어떻게 세상을 바꿀 것인가?
-
-#### Blockchain
-
-- [탈중앙화 의의와 함의(30min)](https://docs.google.com/presentation/d/1kNQxJgbaTSx93R3owcYAtdQZnx3IBEiU8HfXmUlsDQc/edit?usp=sharing)
-- [퍼블릭 블록체인 vs 프라이빗 블록체인(30min) —> 탈중앙화의 레벨, 수준, 정도](https://docs.google.com/presentation/d/1bQiA_cObRb_ZfsBiuxagE5McRO9RDPMz2cs-2jOq0xM/edit?usp=sharing)
-- [엔터프라이즈 이더리움의 토카막 네트워크(20min) —> BM](https://docs.google.com/presentation/d/1Hkw_PC0AvpjC-_XHQL5GOdhkJUgLOKGRn6DkXZ-w6ao/edit?usp=sharing)
-- [블록체인 기업의 핵심 역량](https://medium.com/onther-tech/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%97%AD%EB%9F%89-3210cf8651eb)
 
 
 ### Bitcoin
