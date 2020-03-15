@@ -133,7 +133,7 @@
 |  [golang](https://github.com/KeKe-Li/book/blob/master/Go/The.Go.Programming.Language.pdf)   |  core |  one-paper  |    |
 |  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   |  all |  one-paper  |    |
 |  [es5](https://www.w3schools.com/js/js_es5.asp)   |  all |  one-paper  |  event emitter(front, back)  |
-|  [es6](https://www.w3schools.com/js/js_es6.asp)  |  front, back |  one-paper  |  - Array.map, reduce, forEach<br/> - arrow func vs func\ - destructuring\ - async communication patterns\ - callback, promise, async func + 𝜶   |
+|  [es6](https://www.w3schools.com/js/js_es6.asp)  |  front, back |  one-paper  |  - Array.map, reduce, forEach<br/> - arrow func vs func<br/> - destructuring<br/> - async communication patterns<br/> - callback, promise, async func + 𝜶   |
 |  [solidity](https://solidity.readthedocs.io/en/v0.6.4/)   |  all |  one-paper  |    |
 |  [proxy pattern](https://medium.com/onther-tech/upgradeable-smart-contract-applications-using-proxy-patterns-2053a5780287)([Alt](https://blog.openzeppelin.com/proxy-patterns/)   |  smart contract |  one-paper  |    |
 |  [openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-contracts)  |  smart contract |  one-paper  |    |
@@ -145,7 +145,7 @@
 
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
-|  [nodejs](https://nodejs.org/docs/latest-v13.x/api/)   |  all |  one-paper  |  basic(all)\ event loop(front, back)\ express, socket.io(back)  |
+|  [nodejs](https://nodejs.org/docs/latest-v13.x/api/)   |  all |  one-paper  |  basic(all)<br/> event loop(front, back)<br/> express, socket.io(back)  |
 |  [solc](https://www.npmjs.com/package/solc)  |  all |  one-paper  |    |
 |  [truffle](https://www.trufflesuite.com/docs)   |  all |  one-paper  |    |
 |  [docker](https://docs.docker.com/), [docker-compose](https://docs.docker.com/compose/)   |  all |  one-paper  |    |
