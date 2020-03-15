@@ -136,7 +136,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
-|  [Object Oriented Programming](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)([OOP in Golang](https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540)])   |  all |  one-paper  |    |
+|  [Object Oriented Programming](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)([OOP in Golang](https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540))   |  all |  one-paper  |    |
 |  [Functional Programming Basic](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)   |  all |  one-paper  |    |
 |  [TCP handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)([Alt](https://support.microsoft.com/en-gb/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip))   |  all |  one-paper  |    |
 |  [HTTP request / response](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)   |  all |  one-paper  |    |
@@ -154,7 +154,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 |  [es5](https://www.w3schools.com/js/js_es5.asp)   |  all |  one-paper  |  event emitter(front, back)  |
 |  [es6](https://www.w3schools.com/js/js_es6.asp)  |  front, back |  one-paper  |  - Array.map, reduce, forEach<br/> - arrow func vs func<br/> - destructuring<br/> - async communication patterns<br/> - callback, promise, async func + 𝜶   |
 |  [solidity](https://solidity.readthedocs.io/en/v0.6.4/)   |  all |  one-paper  |    |
-|  [proxy pattern](https://medium.com/onther-tech/upgradeable-smart-contract-applications-using-proxy-patterns-2053a5780287)([Alt](https://blog.openzeppelin.com/proxy-patterns/)   |  smart contract |  one-paper  |    |
+|  [proxy pattern](https://medium.com/onther-tech/upgradeable-smart-contract-applications-using-proxy-patterns-2053a5780287)([Alt](https://blog.openzeppelin.com/proxy-patterns/))   |  smart contract |  one-paper  |    |
 |  [openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-contracts)  |  smart contract |  one-paper  |    |
 
 
