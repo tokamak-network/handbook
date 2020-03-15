@@ -136,7 +136,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
-|  [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)   |  all |  one-paper  |    |
+|  [Object Oriented Programming](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)([OOP in Golang](https://code.tutsplus.com/tutorials/lets-go-object-oriented-programming-in-golang--cms-26540)])   |  all |  one-paper  |    |
 |  [Functional Programming Basic](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)   |  all |  one-paper  |    |
 |  [TCP handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)([Alt](https://support.microsoft.com/en-gb/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip))   |  all |  one-paper  |    |
 |  [HTTP request / response](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)   |  all |  one-paper  |    |
