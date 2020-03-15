@@ -116,7 +116,7 @@
 
 
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)   |  all |  one-paper  |    |
 |  [Functional Programming Basic](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)   |  all |  one-paper  |    |
 |  [TCP handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)([Alt](https://support.microsoft.com/en-gb/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip))   |  all |  one-paper  |    |
@@ -129,11 +129,11 @@
 ### Programming Languages
 
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [golang](https://github.com/KeKe-Li/book/blob/master/Go/The.Go.Programming.Language.pdf)   |  core |  one-paper  |    |
 |  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)   |  all |  one-paper  |    |
 |  [es5](https://www.w3schools.com/js/js_es5.asp)   |  all |  one-paper  |  event emitter(front, back)  |
-|  [es6](https://www.w3schools.com/js/js_es6.asp)  |  front, back |  one-paper  |  - Array.map, reduce, forEach  - arrow func vs func  - destructuring  - async communication patterns  - callback, promise, async func + 𝜶   |
+|  [es6](https://www.w3schools.com/js/js_es6.asp)  |  front, back |  one-paper  |  - Array.map, reduce, forEach\ - arrow func vs func\ - destructuring\ - async communication patterns\ - callback, promise, async func + 𝜶   |
 |  [solidity](https://solidity.readthedocs.io/en/v0.6.4/)   |  all |  one-paper  |    |
 |  [proxy pattern](https://medium.com/onther-tech/upgradeable-smart-contract-applications-using-proxy-patterns-2053a5780287)([Alt](https://blog.openzeppelin.com/proxy-patterns/)   |  smart contract |  one-paper  |    |
 |  [openzeppelin-solidity](https://github.com/OpenZeppelin/openzeppelin-contracts)  |  smart contract |  one-paper  |    |
@@ -144,8 +144,8 @@
 ### Tools
 
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
-|  [nodejs](https://nodejs.org/docs/latest-v13.x/api/)   |  all |  one-paper  |  basic(all)  event loop(front, back)  express, socket.io(back)  |
+|---|:---:|:---:|---|
+|  [nodejs](https://nodejs.org/docs/latest-v13.x/api/)   |  all |  one-paper  |  basic(all)\ event loop(front, back)\ express, socket.io(back)  |
 |  [solc](https://www.npmjs.com/package/solc)  |  all |  one-paper  |    |
 |  [truffle](https://www.trufflesuite.com/docs)   |  all |  one-paper  |    |
 |  [docker](https://docs.docker.com/), [docker-compose](https://docs.docker.com/compose/)   |  all |  one-paper  |    |
@@ -180,7 +180,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 #### Bitcoin
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)   |  all |  seminar, one-paper, test  |    |
 |  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)   |  all |  seminar, one-paper  |    |
 |  [블록체인 기반기술의 이해 1편](https://youtu.be/yoAAZcXPx7k)   |  all |  one-paper, test  |    |
@@ -191,7 +191,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 #### Bitcoin Core
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)   |  core |  one-paper, test  |    |
 |  [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)   |  core |  one-paper, test  |    |
 |  [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)   |  core |  one-paper, test  |    |
@@ -201,7 +201,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 #### Ethereum-General
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)   |  all |  seminar, one-paper, test  |    |
 |  [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper)   |  all |  seminar, one-paper  |    |
 |  [Ethereum Yellowpaper](http://gavwood.com/paper.pdf)   |  core, smrat-contract |  seminar, one-paper, test  |    |
@@ -213,7 +213,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 #### Ethereum-Smart Contract
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)   |  미ㅣ |  one-paper  |    |
 |  [Truffle](https://docs.google.com/presentation/d/1ONHk1ZwNXPe9650Nivv9xaNdN9ec45X22D136RyLAME/edit?usp=sharing)   |  all |  one-paper  |    |
 |  [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)   |  all |  seminar, one-paper  |    |
@@ -231,7 +231,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 #### Ethereum - Client
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [JSON RPC](https://infura.io/docs)([Alt1](https://github.com/ethereum/wiki/wiki/JSON-RPC), [Alt2](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console))   |  all |  seminar, mini-project  |  [Implementation1](https://github.com/ethereum/go-ethereum/blob/d90d1db609c8d77baa422d49bd371207c06b4711/internal/ethapi/backend.go) [Implementation2](https://github.com/ethereum/go-ethereum/blob/38d1b0cba277db17129a4870158115c5a428cffc/eth/backend.go) |
 |  [4000d의 go-ethereum 코어 패키지 리스팅자료](https://docs.google.com/spreadsheets/d/1QJOnkI-qRb8CtJcZqeU_OxyGqCoFFIE5cx564XObIVE)   |  core |  seminar, one-paper  |    |
 |  [go-ethereum 분석 1 - Carl(4000d)](https://drive.google.com/open?id=1gDCJEYr_xyxRpftQh_ZxVixoNtsxebKTr_TUBkO7CH8)   |  core |  seminar, one-paper  |    |
@@ -257,7 +257,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 #### Layer-2(Plasma)
 
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [Plasma 가볍게 훑어보기](http://blog.onther.io/ethereum/scalability/plasma/plasma-general/)   |  all |  one-paper  |    |
 |  [Plasma 101 : Let’s Scale with Cryptoeconomics](https://medium.com/onther-tech/plasma-101-lets-scale-with-cryptoeconomics-ee0c9fac4989)   |  all |  one-paper  |    |
 |  [Plasma 102 : Detail Structure and Use Cases](https://medium.com/onther-tech/plasma-102-detail-structure-and-use-cases-914507781bd4)   |  all |  one-paper  |    |
@@ -277,7 +277,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 #### Ethereum 2.0
 
 |Topics|Target|Tags|Remarks|
-|---|---|---|---|
+|---|:---:|:---:|---|
 |  [ETH 2.0 Explained: Phase 0](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-phase-0-1%ED%8E%B8-74ee5659a40a)   |  core, smart-contract |  one-paper  |    |
 |  [Cross Shard Communication -1- 비동기 커뮤니케이션](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-cross-shard-communication-async-2%ED%8E%B8-ac78e921e8a4)   |  core, smart-contract |  one-paper  |    |
 |  [Cross Shard Communication -2- 동기 커뮤니케이션](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-cross-shard-communication-sync-3%ED%8E%B8-cbff047e8f0d)   |  core, smart-contract |  one-paper  |    |
