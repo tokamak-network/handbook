@@ -330,7 +330,7 @@ Tokamak Network와 zk-DEX는 온더의 주요 프로젝트로 모든 개발자�
 
 
 ### Project-zk-DEX
-
+- [Zero-Knowledge Proof Basic](https://www.youtube.com/watch?v=93TWY6pyxvE&feature=youtu.be)
 - [프라이버시를 보장하는 스테이블 코인 zk-DAI 깊게 살펴보기](http://blog.onther.io/ethereum/scalability/zkp/zk-dai-deep-dive/)
 - [영지식 증명을 활용한 프라이버시 토큰(zk-ERC20) 구현](http://blog.onther.io/ethereum/scalability/zkp/zk-erc20/)
 
