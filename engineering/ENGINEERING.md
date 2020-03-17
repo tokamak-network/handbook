@@ -202,7 +202,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 ### Ethereum
 
-#### Ethereum-General
+#### Ethereum - General
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
 |  [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)   |  all |  seminar, one-paper, test  |    |
@@ -214,7 +214,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 
 
 
-#### Ethereum-Smart Contract
+#### Ethereum - Smart Contract
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
 |  [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)   |  all |  one-paper  |    |
