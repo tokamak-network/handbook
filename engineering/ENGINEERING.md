@@ -257,12 +257,12 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 |  [Plasma 가볍게 훑어보기](http://blog.onther.io/ethereum/scalability/plasma/plasma-general/)   |  all |  one-paper  |    |
 |  [Plasma 101 : Let’s Scale with Cryptoeconomics](https://medium.com/onther-tech/plasma-101-lets-scale-with-cryptoeconomics-ee0c9fac4989)   |  all |  one-paper  |    |
 |  [Plasma 102 : Detail Structure and Use Cases](https://medium.com/onther-tech/plasma-102-detail-structure-and-use-cases-914507781bd4)   |  all |  one-paper  |    |
-|  [State Channel Basic](http://blog.onther.io/ethereum/scalability/statechannel/state-channel-basic/)   |  all |  one-paper  |    |
+|  [State Channel Basic](https://www.youtube.com/watch?v=JM94EYEhj00)   |  all |  one-paper  |    |
 |  [Plasma Whitepaper](https://www.plasma.io/plasma.pdf)   |  core, smart-contract |  one-paper  |    |
 |  [Deep Dive Into Plasma MVP](http://blog.onther.io/ethereum/scalability/plasma/Deep-Dive-Into-Plasma-MVP/)   |  core, smart-contract |  one-paper  |    |
 |  [Plasma ERC721 implementation (Loomnetwork)](https://medium.com/onther-tech/plasma-erc721-implementation-loomnetwork-9f8ec59bb25b)   |  core, smart-contract |  one-paper  |    |
 |  [Data Availability problem in implementing Plasma design](https://medium.com/onther-tech/data-availability-problem-in-implementing-plasma-design-6e23df1a147f)   |  core, smart-contract |  one-paper  |    |
-|  [일반상태(튜링완전) 플라즈마 관련 연구 분석](http://blog.onther.io/ethereum/scalability/plasma/analysis-of-general-state-plasma-models/)   |  core, smart-contract |  one-paper  |    |
+|  [일반상태(튜링완전) 플라즈마 관련 연구 분석](https://www.youtube.com/watch?v=-39LcTj6_Q0)   |  core, smart-contract |  one-paper  |    |
 |  [Plasma World Map](http://blog.onther.io/ethereum/scalability/plasma/Plasma-World-Map/)   |  core, smart-contract |  one-paper  |    |
 |  [Zero Knowledge Proof and Plasma](http://blog.onther.io/ethereum/scalability/zkp/Zero-Knowledge-Proof-and-Plasma/)   |  core, smart-contract |  one-paper  |    |
 
@@ -283,7 +283,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 |  [스태이트리스 클라이언트(Stateless Client)](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8A%A4%ED%83%9C%EC%9D%B4%ED%8A%B8%EB%A6%AC%EC%8A%A4-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-stateless-client-7%ED%8E%B8-b2e96d9f071b)   |  core, smart-contract |  one-paper  |    |
 |  [ETH 2.0 Explained: Phase 2](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-phase-2-8%ED%8E%B8-b9efc2dfe9e)   |  core, smart-contract |  one-paper  |    |
 |  [Execution Environment](https://medium.com/onther-tech/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%802-0-%EA%B9%8A%EC%9D%B4%EB%B3%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-eth-2-0-explained-execution-environment-9%ED%8E%B8-17ff1ead2f9f)   |  core, smart-contract |  one-paper  |    |
-|  [Ethereum 2.0 - Randomness](http://blog.onther.io/ethereum/scalability/ethereum2.0/Ethereum-2.0-Randomness/)   |  core, smart-contract |  one-paper  |    |
+|  [Ethereum 2.0 - Randomness](https://medium.com/onther-tech/ethereum-2-0-randomness-5f99565c6293)   |  core, smart-contract |  one-paper  |    |
 
 
 
@@ -306,17 +306,17 @@ Tokamak Network와 zk-DEX는 온더의 주요 프로젝트로 모든 개발자�
 - Economic Description of Tokamak Network: [Slide](https://docs.google.com/presentation/d/1uG12SYjcPWVCE9JvHBYjMbk5P80KO7CzLt_rkE4h2RM/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=gW7FCiBgBI4&t=2s)
 
 **Comparison with Other Layer-2 Solutions**
-- [Plasma vs Rollup vs Sidechain Comparison Memo(60 min)](https://www.notion.so/onther/Plasma-vs-optimistic-zk-Roll-up-5017e5f6044d45b49157d8351c27de88)
+- [Plasma vs Rollup vs Sidechain Comparison Memo](https://www.notion.so/onther/Plasma-vs-optimistic-zk-Roll-up-5017e5f6044d45b49157d8351c27de88)
 
 **Data availability**
-- [(온더콘2)Data availability solution in plasma for global state - Continuous Rebase](http://blog.onther.io/ethereum/scalability/plasma/plsmaevm/DA-solution-continuous-rebase/)
+- [Data availability solution in plasma for global state - Continuous Rebase](https://www.youtube.com/watch?v=kRfgM4crCk0)
 
 **Computation Challenge**
 - [춤추는 철학자의 문제](https://medium.com/onther-tech/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EA%B2%80%EC%A6%9D-%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%9A%A9%EC%84%B1-dancing-philosophers-problem-verification-game-sidechain-fa2b5e1e0ca3)
-- [Let’s play with Truebit(scrypt interactive game)](http://blog.onther.io/ethereum/scalability/Let's-play-with-Truebit/)
+- [Let’s play with Truebit(scrypt interactive game)](https://www.youtube.com/watch?v=7oXHVop3r_M)
 
 **Requestable Contracts**
-- [(온더콘2)Examples and Best Practices for Requestable Contracts](http://blog.onther.io/ethereum/scalability/plasma/plsmaevm/Examples-and-Best-Practices-for-Requestable-Contracts/)
+- [Examples and Best Practices for Requestable Contracts](https://www.youtube.com/watch?v=M65Oq_rbHGs)
 
 
 
@@ -324,7 +324,7 @@ Tokamak Network와 zk-DEX는 온더의 주요 프로젝트로 모든 개발자�
 ### Project-zk-DEX
 - [Zero-Knowledge Proof Basic](https://www.youtube.com/watch?v=93TWY6pyxvE&feature=youtu.be)
 - [프라이버시를 보장하는 스테이블 코인 zk-DAI 깊게 살펴보기](http://blog.onther.io/ethereum/scalability/zkp/zk-dai-deep-dive/)
-- [영지식 증명을 활용한 프라이버시 토큰(zk-ERC20) 구현](http://blog.onther.io/ethereum/scalability/zkp/zk-erc20/)
+- [영지식 증명을 활용한 프라이버시 토큰(zk-ERC20) 구현](https://medium.com/onther-tech/%EC%98%81%EC%A7%80%EC%8B%9D-%EC%A6%9D%EB%AA%85%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-%ED%86%A0%ED%81%B0-zk-erc20-%EA%B5%AC%ED%98%84-14fa69b49418)
 
 ### Deep Dive
 - [zk-DEX paper](https://github.com/Onther-Tech/papers/blob/master/docs/zk_DEX.pdf)
