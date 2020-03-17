@@ -217,7 +217,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 #### Ethereum-Smart Contract
 |Topics|Target|Tags|Remarks|
 |---|:---:|:---:|---|
-|  [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)   |  미ㅣ |  one-paper  |    |
+|  [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)   |  all |  one-paper  |    |
 |  [Truffle](https://docs.google.com/presentation/d/1ONHk1ZwNXPe9650Nivv9xaNdN9ec45X22D136RyLAME/edit?usp=sharing)   |  all |  one-paper  |    |
 |  [Zeppelin Solidity](https://github.com/OpenZeppelin/zeppelin-solidity)   |  all |  seminar, one-paper  |    |
 |  [늑대 컨트렉트](https://docs.google.com/presentation/d/16MaPJcTZ3IV9KNd_N_KvGpWhtYrQelsXFBEtw0468fE/edit?usp=sharing)   |  all |  one-paper  |    |
