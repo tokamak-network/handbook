@@ -197,7 +197,7 @@ General에서 다루는 내용들은 팀에 대한 소개와 사업방향 등으
 |---|:---:|:---:|---|
 |  [Bitcoin Transaction and Script by Thomas Shin](https://docs.google.com/presentation/d/11c2c40zXyXU3kIwhA8F0_US_zvECpD_lW1xRz4OVsgY/edit#slide=id.p3)   |  core |  one-paper, test  |    |
 |  [Bitcoin OP_RETURN by Thomas Shin](https://docs.google.com/presentation/d/1H46MtFgLbP7_GWI4AOoz4YaWvni79lo56IjBrUk__6o/edit?usp=sharing)   |  core |  one-paper, test  |    |
-|  [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)   |  core |  one-paper, test  |    |
+|  [Bloom Filter by Jason](https://docs.google.com/presentation/d/1FipuUsbBBL_lCcIcvHRrZQ6sspB17R2AWucKY0zHrt8/edit?usp=sharing)   |  all |  one-paper, test  |    |
 
 
 ### Ethereum
