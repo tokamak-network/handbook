@@ -311,7 +311,6 @@ Tokamak Network와 zk-DEX는 온더의 주요 프로젝트로 모든 개발자�
 
 **Economics**
 - Economic Description of Tokamak Network: [Slide](https://docs.google.com/presentation/d/1uG12SYjcPWVCE9JvHBYjMbk5P80KO7CzLt_rkE4h2RM/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=gW7FCiBgBI4&t=2s)
-- 토카막 네트워크 이코노믹 페이퍼 : [https://hackmd.io/@dwmnux6AQZWPyG-VSBXm1Q/rJgPxWYTm?type=view](https://hackmd.io/@dwmnux6AQZWPyG-VSBXm1Q/rJgPxWYTm?type=view)
 
 **Comparison with Other Layer-2 Solutions**
 - [Plasma vs Rollup vs Sidechain Comparison Memo(60 min)](https://www.notion.so/onther/Plasma-vs-optimistic-zk-Roll-up-5017e5f6044d45b49157d8351c27de88)
