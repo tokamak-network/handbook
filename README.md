@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/8wSpJKz)
+
 # 온더 팀 핸드북
 이 핸드북은 회사가 어떻게 운영 되는지에 관한 핵심 저장소입니다. 이 내용은 누구든지 열람할 수 있으며, 이에 대한 개선안과 피드백은 어느 누구든지 주실 수 있습니다. 이에 대한 개선안이 있다면 언제든지 pull request를 해 주시기를 바라며, 궁금한 점이 있으면 언제든지 issue를 내 주시기 바랍니다.
 
